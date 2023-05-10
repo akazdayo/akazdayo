@@ -2,7 +2,7 @@
 
 # 👋 Hi im akaz.
 ![star](https://img.shields.io/github/stars/akazdayo?style=social)
-![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fakazdayo)  
+![Twitter](https://img.shields.io/twitter/follow/akazdayo?style=social)  
 ❤️ I love Python infinitely.  
 ❤️‍🩹  I'm bad at Engine.
 # 📮 Contact me
