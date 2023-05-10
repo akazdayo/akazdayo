@@ -1,6 +1,6 @@
 ![banner](img/hello_world.png)
 
-# 👋 Hi im akaz.
+# 👋 Hi I'm akaz.
 ![star](https://img.shields.io/github/stars/akazdayo?style=social)
 [![https://twitter.com/akazdayo](https://img.shields.io/twitter/follow/akazdayo?style=social)](https://twitter.com/akazdayo)  
 ❤️ I love Python infinitely.  
