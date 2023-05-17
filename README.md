@@ -4,7 +4,7 @@
 ![star](https://img.shields.io/github/stars/akazdayo?style=social)
 [![https://twitter.com/akazdayo](https://img.shields.io/twitter/follow/akazdayo?style=social)](https://twitter.com/akazdayo)  
 ❤️ I love Python infinitely.  
-❤️‍🩹  I'm bad at Engine.
+❤️‍🩹  I'm bad at game engine.
 # 📮 Contact me
 * [Twitter](https://twitter.com/akazdayo)
 
