@@ -7,7 +7,7 @@
 ❤️ I love Python infinitely.  
 ❤️‍🩹  I'm bad at game engine.
 # 📮 Contact me
-* [Twitter](https://twitter.com/akazdayo)
+* [X](https://twitter.com/akazdayo)
 
 
 
