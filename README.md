@@ -11,6 +11,6 @@
 
 
 
-# 📈 Status
+# 📈 Stats
 ![Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akazdayo&theme=zenburn)
 ![😭lang](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akazdayo&theme=zenburn&exclude=)
