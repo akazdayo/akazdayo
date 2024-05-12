@@ -4,7 +4,7 @@
 ![views](https://komarev.com/ghpvc/?username=akazdayo&color=lightgray)
 ![star](https://img.shields.io/github/stars/akazdayo?style=social)
 [![https://twitter.com/akazdayo](https://img.shields.io/twitter/follow/akazdayo?style=social)](https://twitter.com/akazdayo)  
-❤️ I love Python infinitely.  
+❤️ I love Python.  
 ❤️‍🩹  I'm bad at game engine.
 # 📮 Contact me
 * [X](https://twitter.com/akazdayo)
