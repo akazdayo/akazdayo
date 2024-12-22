@@ -16,6 +16,7 @@ $ git push origin main</code>
 
 # 📮 Contact me
 * [X](https://twitter.com/akazdayo)
+* [E-Mail](mailto:akaz_dango@tutanota.com)
 
 
 
