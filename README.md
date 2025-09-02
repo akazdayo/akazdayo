@@ -12,3 +12,4 @@
 # 📈 Stats
 ![Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akazdayo&theme=zenburn)
 ![lang](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akazdayo&theme=zenburn&exclude=)![osu](https://osu-sig.vercel.app/card?user=akazdayo&mode=std&lang=en&round_avatar=true&animation=true&mini=true&w=667&h=200)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=akazdayo)](https://git.io/streak-stats)
