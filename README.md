@@ -11,5 +11,8 @@
 
 # 📈 Stats
 ![Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akazdayo&theme=zenburn)
-![lang](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akazdayo&theme=zenburn&exclude=)![osu](https://osu-sig.vercel.app/card?user=akazdayo&mode=std&lang=en&round_avatar=true&animation=true&mini=true&w=667&h=200)
-![Wakatime](https://wakatime.com/share/@2ca56bfc-391b-41d4-bccc-2ec805bfcc7b/507682f8-86cd-44b1-96ed-22545611f522.svg)
+![lang](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akazdayo&theme=zenburn&exclude=)
+<details><summary>Game</summary>
+
+![osu](https://osu-sig.vercel.app/card?user=akazdayo&mode=std&lang=en&round_avatar=true&animation=true&mini=true&w=667&h=200)
+</details>
