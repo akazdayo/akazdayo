@@ -4,6 +4,7 @@
 ![star](https://img.shields.io/github/stars/akazdayo?style=social)
 [![https://twitter.com/akazdayo](https://img.shields.io/twitter/follow/akazdayo?style=social)](https://twitter.com/akazdayo)  
 [![nostr](https://nostr-embed.odango.app/nprofile1qyxhwumn8ghj77tpvf6jumt9qy28wumn8ghj7un9d3shjtnyv9kh2uewd9hsqgqmam8w2hmfa0pgjpqrvphj3d0gawaty0fzvucwz26t7a3d98fpvgwg2wlq)](https://nostter.app/odango.app)
+[^1]
 
 # 📮 Contact me
 * [X](https://twitter.com/akazdayo)
@@ -16,3 +17,5 @@
 
 ![osu](https://osu-sig.vercel.app/card?user=akazdayo&mode=std&lang=en&round_avatar=true&animation=true&mini=true&w=667&h=200)
 </details>
+
+[^1]: You want this? You can get [here](https://github.com/akazdayo/nost-profile2?tab=readme-ov-file)!
