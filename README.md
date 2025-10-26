@@ -3,7 +3,7 @@
 ![views](https://komarev.com/ghpvc/?username=akazdayo&color=lightgray)
 ![star](https://img.shields.io/github/stars/akazdayo?style=social)
 [![https://twitter.com/akazdayo](https://img.shields.io/twitter/follow/akazdayo?style=social)](https://twitter.com/akazdayo)  
-[![nostr](https://nostr-profile.vercel.app/api/profile/1beecee55f69ebc2890403606f28b5e8ebbab23d226730e12b4bf762d29d2162)](https://nosta.me/npub1r0hvae2ld84u9zgyqdsx7294ar4m4v3ayfnnpcftf0mk955ay93qejel3w)
+[![nostr](https://nostr-embed.odango.app/nprofile1qyxhwumn8ghj77tpvf6jumt9qy28wumn8ghj7un9d3shjtnyv9kh2uewd9hsqgqmam8w2hmfa0pgjpqrvphj3d0gawaty0fzvucwz26t7a3d98fpvgwg2wlq)](https://nostter.app/odango.app)
 
 # 📮 Contact me
 * [X](https://twitter.com/akazdayo)
