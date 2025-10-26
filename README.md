@@ -7,7 +7,7 @@
 
 # 📮 Contact me
 * [X](https://twitter.com/akazdayo)
-* [E-Mail](mailto:akazdayo@odango.app)
+* [E-Mail](mailto:me@odango.app)
 
 # 📈 Stats
 ![Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akazdayo&theme=zenburn)
