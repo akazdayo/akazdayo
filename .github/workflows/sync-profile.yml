@@ -1,0 +1,98 @@
+name: sync-profile
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 3 * * *'
+  push:
+    paths:
+      - flake.nix
+      - flake.lock
+      - '**/*.nix'
+      - 'scripts/**'
+      - '.github/workflows/**'
+
+concurrency:
+  group: sync-profile-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions: {}
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    outputs:
+      generated_changed: ${{ steps.diff.outputs.generated_changed }}
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Install Nix
+        uses: cachix/install-nix-action@v27
+        with:
+          nix_path: nixpkgs=channel:nixos-24.11
+
+      - name: Sync profile data
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          nix run "path:$PWD#sync-profile" -- \
+            --token "$GITHUB_TOKEN" \
+            --owner "${{ github.repository_owner }}"
+
+      - name: Verify flake integrity
+        run: nix flake check "path:$PWD"
+
+      - name: Detect allowed generated diffs
+        id: diff
+        run: |
+          if git diff --quiet --exit-code -- repos.nix README.md; then
+            echo "generated_changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "generated_changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Upload generated artifacts
+        if: steps.diff.outputs.generated_changed == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: generated-outputs
+          path: |
+            repos.nix
+            README.md
+          retention-days: 1
+
+  commit-generated:
+    needs: refresh
+    if: needs.refresh.outputs.generated_changed == 'true'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Download generated artifacts
+        uses: actions/download-artifact@v4
+        with:
+          name: generated-outputs
+
+      - name: Configure git identity
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Stage allowed generated artifacts
+        run: git add repos.nix README.md
+
+      - name: Commit generated changes
+        run: |
+          if git diff --cached --quiet --exit-code; then
+            exit 0
+          fi
+          git commit -m 'chore(profile): refresh generated profile [skip ci]'
+
+      - name: Push generated commit
+        run: git push
