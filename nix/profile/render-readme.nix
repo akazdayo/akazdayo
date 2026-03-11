@@ -81,24 +81,6 @@ let
     ++ map (id: "[^${id}]") aggregate.hero.footnoteRefs
   );
 
-  shortExplanation = section readmeSections.shortExplanation.heading (
-    joinLines (
-      readmeSections.shortExplanation.intro
-      ++ [
-        ""
-        "Current aggregate snapshot: ${builtins.toString aggregate.repoCount} ${
-          pluralize aggregate.repoCount "repository" "repositories"
-        }, ${builtins.toString aggregate.totalStars} ${
-          pluralize aggregate.totalStars "star" "stars"
-        } across the observed set."
-        ""
-      ]
-      ++ map renderCard aggregate.stats.cards
-      ++ [ "" ]
-      ++ map renderDetails aggregate.details
-    )
-  );
-
   featuredRepositories = section readmeSections.featuredRepositories.heading (
     if aggregate.featuredRepos == [ ] then
       readmeSections.featuredRepositories.empty
@@ -128,17 +110,6 @@ let
     else
       joinLines (map renderRepoLine (take 5 aggregate.recentlyUpdated))
   );
-
-  aboutThisReadme = section readmeSections.aboutThisReadme.heading (joinLines [
-    aggregate.selfReference.note
-    (
-      if aggregate.selfReference.included then
-        "${readmeSections.aboutThisReadme.selfReferenceIncluded} ${renderLink aggregate.selfReference.repo.name aggregate.selfReference.repo.url}."
-      else
-        readmeSections.aboutThisReadme.selfReferenceMissing
-    )
-    readmeSections.aboutThisReadme.aggregateOwnership
-  ]);
 
   links = section readmeSections.links.heading (
     joinLines (
@@ -172,12 +143,10 @@ let
   );
 
   renderedSections = {
-    shortExplanation = shortExplanation;
     featuredRepositories = featuredRepositories;
     languageTrends = languageTrends;
     topicTrends = topicTrends;
     recentActiveProjects = recentActiveProjects;
-    aboutThisReadme = aboutThisReadme;
     links = links;
   };
 

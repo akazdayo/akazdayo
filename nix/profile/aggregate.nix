@@ -115,13 +115,6 @@ in
     nixRepos
     ;
 
-  selfReference = {
-    name = selfRepoName;
-    included = selfRepo != null;
-    repo = selfRepo;
-    note = static.readme.sections.aboutThisReadme.selfReferenceNote;
-  };
-
   links = {
     hero = static.hero.links;
     contact = static.contact.links;
