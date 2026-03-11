@@ -2,25 +2,23 @@
   description = "Minimal flake contracts for the GitHub profile README";
 
   inputs = {
-    nixpkgs.url = "github:NixOS/nixpkgs/nixos-24.11";
+    nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
+    flake-parts.url = "github:hercules-ci/flake-parts";
   };
 
   outputs =
-    { nixpkgs, ... }:
-    let
-      lib = nixpkgs.lib;
+    inputs@{ flake-parts, ... }:
+    flake-parts.lib.mkFlake { inherit inputs; } {
       systems = [
         "x86_64-linux"
         "aarch64-linux"
         "x86_64-darwin"
         "aarch64-darwin"
       ];
-      forAllSystems = lib.genAttrs systems;
 
-      perSystem = forAllSystems (
-        system:
+      perSystem =
+        { pkgs, ... }:
         let
-          pkgs = import nixpkgs { inherit system; };
           staticProfile = import ./nix/profile/static.nix;
           schema = import ./nix/profile/schema.nix;
           aggregate = import ./nix/profile/aggregate.nix {
@@ -343,12 +341,6 @@
               touch "$out"
             '';
           };
-        }
-      );
-    in
-    {
-      packages = lib.mapAttrs (_: attrs: attrs.packages) perSystem;
-      apps = lib.mapAttrs (_: attrs: attrs.apps) perSystem;
-      checks = lib.mapAttrs (_: attrs: attrs.checks) perSystem;
+        };
     };
 }
