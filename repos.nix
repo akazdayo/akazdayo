@@ -443,8 +443,8 @@
     name = "akazdayo";
     url = "https://github.com/akazdayo/akazdayo";
     stars = 0;
-    language = null;
-    pushedAt = "2025-10-26T06:06:46Z";
+    language = "Nix";
+    pushedAt = "2026-03-11T08:01:23Z";
     topics = [ "config" "github-config" ];
     archived = false;
     fork = false;

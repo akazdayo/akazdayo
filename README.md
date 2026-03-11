@@ -55,7 +55,7 @@ Current aggregate snapshot: 132 repositories, 65 stars across the observed set.
 - [aikyo-template](https://github.com/akazdayo/aikyo-template), 0 stars, primary language: TypeScript, pushed 2025-10-20T10:15:51Z, topics: none listed
 - [aikyo-yukkuri](https://github.com/akazdayo/aikyo-yukkuri), 0 stars, primary language: TypeScript, pushed 2025-10-19T09:14:36Z, topics: none listed
 - [aituber-kit-aikyo-demo](https://github.com/akazdayo/aituber-kit-aikyo-demo), 0 stars, primary language: TypeScript, pushed 2025-10-02T04:34:07Z, topics: none listed
-- [akazdayo](https://github.com/akazdayo/akazdayo), 0 stars, primary language: `null`, pushed 2025-10-26T06:06:46Z, topics: config, github-config
+- [akazdayo](https://github.com/akazdayo/akazdayo), 0 stars, primary language: Nix, pushed 2026-03-11T08:01:23Z, topics: config, github-config
 - [akazdayo.github.io](https://github.com/akazdayo/akazdayo.github.io), 0 stars, primary language: `null`, pushed 2025-11-04T16:00:25Z, topics: none listed
 - [articles](https://github.com/akazdayo/articles), 0 stars, primary language: Nix, pushed 2025-12-30T15:10:22Z, topics: none listed
 - [auto-yukkuri-web](https://github.com/akazdayo/auto-yukkuri-web), 0 stars, primary language: JavaScript, pushed 2025-11-16T11:33:24Z, topics: none listed
@@ -122,9 +122,9 @@ Current aggregate snapshot: 132 repositories, 65 stars across the observed set.
 ## Language Trends
 
 - TypeScript: 34 repos
-- `null`: 32 repos
+- `null`: 31 repos
 - Python: 22 repos
-- Nix: 11 repos
+- Nix: 12 repos
 - Rust: 11 repos
 - HTML: 6 repos
 - JavaScript: 5 repos
@@ -147,6 +147,7 @@ Current aggregate snapshot: 132 repositories, 65 stars across the observed set.
 
 ## Recent Active Projects
 
+- [akazdayo](https://github.com/akazdayo/akazdayo), 0 stars, primary language: Nix, pushed 2026-03-11T08:01:23Z, topics: config, github-config
 - [openclaw-do-nix](https://github.com/akazdayo/openclaw-do-nix), 0 stars, primary language: Nix, pushed 2026-03-11T04:50:08Z, topics: none listed
 - [minecraft-proxy](https://github.com/akazdayo/minecraft-proxy), 0 stars, primary language: Nix, pushed 2026-03-11T04:28:20Z, topics: none listed
 - [digitalocean-nix-tf](https://github.com/akazdayo/digitalocean-nix-tf), 0 stars, primary language: Nix, pushed 2026-03-10T04:47:46Z, topics: none listed
@@ -176,7 +177,6 @@ Current aggregate snapshot: 132 repositories, 65 stars across the observed set.
 - [akazdayo.github.io](https://github.com/akazdayo/akazdayo.github.io), 0 stars, primary language: `null`, pushed 2025-11-04T16:00:25Z, topics: none listed
 - [aikyo-discord](https://github.com/akazdayo/aikyo-discord), 0 stars, primary language: TypeScript, pushed 2025-11-01T08:19:44Z, topics: none listed
 - [obsidian-nostr-sync](https://github.com/akazdayo/obsidian-nostr-sync), 1 star, primary language: TypeScript, pushed 2025-10-30T08:02:28Z, topics: none listed
-- [akazdayo](https://github.com/akazdayo/akazdayo), 0 stars, primary language: `null`, pushed 2025-10-26T06:06:46Z, topics: config, github-config
 - [nostr-kind1-csv](https://github.com/akazdayo/nostr-kind1-csv), 0 stars, primary language: Svelte, pushed 2025-10-25T16:43:28Z, topics: none listed
 - [aikyo-template](https://github.com/akazdayo/aikyo-template), 0 stars, primary language: TypeScript, pushed 2025-10-20T10:15:51Z, topics: none listed
 - [aikyo-yukkuri](https://github.com/akazdayo/aikyo-yukkuri), 0 stars, primary language: TypeScript, pushed 2025-10-19T09:14:36Z, topics: none listed
