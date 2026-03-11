@@ -1,0 +1,44 @@
+[
+  {
+    "name": "page2-alpha",
+    "full_name": "akazdayo/page2-alpha",
+    "html_url": "https://github.com/akazdayo/page2-alpha",
+    "stargazers_count": 10,
+    "language": "Nix",
+    "pushed_at": "2026-01-02T00:00:00Z",
+    "topics": [
+      "nix"
+    ],
+    "archived": false,
+    "fork": false,
+    "private": false
+  },
+  {
+    "name": "page2-beta",
+    "full_name": "akazdayo/page2-beta",
+    "html_url": "https://github.com/akazdayo/page2-beta",
+    "stargazers_count": 10,
+    "language": null,
+    "pushed_at": "2026-01-03T00:00:00Z",
+    "topics": [
+      "beta"
+    ],
+    "archived": false,
+    "fork": false,
+    "private": false
+  },
+  {
+    "name": "page2-private",
+    "full_name": "akazdayo/page2-private",
+    "html_url": "https://github.com/akazdayo/page2-private",
+    "stargazers_count": 99,
+    "language": "Rust",
+    "pushed_at": "2026-01-04T00:00:00Z",
+    "topics": [
+      "hidden"
+    ],
+    "archived": false,
+    "fork": false,
+    "private": true
+  }
+]

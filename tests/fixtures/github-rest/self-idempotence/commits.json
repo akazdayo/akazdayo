@@ -1,0 +1,44 @@
+[
+  {
+    "author": {
+      "login": "github-actions[bot]"
+    },
+    "committer": {
+      "login": "github-actions[bot]"
+    },
+    "commit": {
+      "message": "chore(profile): refresh generated profile [skip ci]",
+      "author": {
+        "name": "github-actions[bot]",
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "date": "2026-02-04T09:00:00Z"
+      },
+      "committer": {
+        "name": "github-actions[bot]",
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "date": "2026-02-04T09:00:00Z"
+      }
+    }
+  },
+  {
+    "author": {
+      "login": "akazdayo"
+    },
+    "committer": {
+      "login": "akazdayo"
+    },
+    "commit": {
+      "message": "feat: keep README stable",
+      "author": {
+        "name": "akazdayo",
+        "email": "me@odango.app",
+        "date": "2026-02-01T08:30:00Z"
+      },
+      "committer": {
+        "name": "akazdayo",
+        "email": "me@odango.app",
+        "date": "2026-02-01T08:30:00Z"
+      }
+    }
+  }
+]

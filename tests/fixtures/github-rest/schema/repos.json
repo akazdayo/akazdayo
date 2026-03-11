@@ -1,0 +1,45 @@
+[
+  {
+    "name": "escape-${value}",
+    "full_name": "akazdayo/escape-${value}",
+    "html_url": "https://github.com/akazdayo/escape-${value}",
+    "stargazers_count": 5,
+    "language": null,
+    "pushed_at": "2026-03-11T10:00:00.000Z",
+    "topics": [
+      "topic${value}",
+      "quote\"topic",
+      "back\\slash"
+    ],
+    "archived": false,
+    "fork": false,
+    "private": false
+  },
+  {
+    "name": "alpha",
+    "full_name": "akazdayo/alpha",
+    "html_url": "https://github.com/akazdayo/alpha",
+    "stargazers_count": 7,
+    "language": "Nix",
+    "pushed_at": "2026-03-10T09:30:00+00:00",
+    "topics": [
+      "nix",
+      "flake"
+    ],
+    "archived": false,
+    "fork": false,
+    "private": false
+  },
+  {
+    "name": "zeta",
+    "full_name": "akazdayo/zeta",
+    "html_url": "https://github.com/akazdayo/zeta",
+    "stargazers_count": 7,
+    "language": "Python",
+    "pushed_at": "2026-03-09T12:00:00Z",
+    "topics": [],
+    "archived": false,
+    "fork": false,
+    "private": false
+  }
+]
