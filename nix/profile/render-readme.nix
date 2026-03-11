@@ -11,6 +11,14 @@ let
 
   joinLines = lines: builtins.concatStringsSep "\n" lines;
 
+  take =
+    n: list:
+    let
+      len = builtins.length list;
+      count = if n < len then n else len;
+    in
+    builtins.genList (i: builtins.elemAt list i) count;
+
   section =
     heading: body:
     joinLines [
@@ -95,7 +103,7 @@ let
     if aggregate.featuredRepos == [ ] then
       readmeSections.featuredRepositories.empty
     else
-      joinLines (map renderRepoLine aggregate.featuredRepos)
+      joinLines (map renderRepoLine (take 5 aggregate.featuredRepos))
   );
 
   languageTrends = section readmeSections.languageTrends.heading (
@@ -103,7 +111,7 @@ let
       readmeSections.languageTrends.empty
     else
       joinLines (
-        map (entry: renderCountLine (renderLanguage entry.language) entry) aggregate.languageCounts
+        map (entry: renderCountLine (renderLanguage entry.language) entry) (take 5 aggregate.languageCounts)
       )
   );
 
@@ -118,7 +126,7 @@ let
     if aggregate.recentlyUpdated == [ ] then
       readmeSections.recentActiveProjects.empty
     else
-      joinLines (map renderRepoLine aggregate.recentlyUpdated)
+      joinLines (map renderRepoLine (take 5 aggregate.recentlyUpdated))
   );
 
   aboutThisReadme = section readmeSections.aboutThisReadme.heading (joinLines [

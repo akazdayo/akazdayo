@@ -76,24 +76,14 @@
 
   readme = {
     sectionOrder = [
-      "shortExplanation"
       "featuredRepositories"
       "languageTrends"
       "topicTrends"
       "recentActiveProjects"
-      "aboutThisReadme"
       "links"
     ];
 
     sections = {
-      shortExplanation = {
-        heading = "Short Explanation";
-        intro = [
-          "This profile README is generated from the shared Nix aggregate, which combines the hand-maintained profile contract with the normalized repository snapshot."
-          "It stays presentation-focused, deterministic, and aware that this generator repository is part of the observed input state, so it can appear in derived sections when present in `repos.nix`."
-        ];
-      };
-
       featuredRepositories = {
         heading = "Featured Repositories";
         empty = "No featured repositories are available in the aggregate yet.";
@@ -112,14 +102,6 @@
       recentActiveProjects = {
         heading = "Recent Active Projects";
         empty = "No recent active projects are available in the aggregate yet.";
-      };
-
-      aboutThisReadme = {
-        heading = "About This README";
-        selfReferenceNote = "This repository is part of the observed input state and may appear in derived aggregates when present in repos.nix.";
-        selfReferenceIncluded = "The generator repository is currently included in the observed state as";
-        selfReferenceMissing = "The generator repository is tracked as part of the observed state contract and will appear in derived sections whenever it is present in `repos.nix`.";
-        aggregateOwnership = "Static identity, contact destinations, summary cards, retained detail blocks, and the footnote stay declarative in `nix/profile/static.nix`, while repository-derived lists come from `nix/profile/aggregate.nix`.";
       };
 
       links = {
