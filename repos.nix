@@ -40,6 +40,16 @@
     fork = false;
   }
   {
+    name = "nix-configs";
+    url = "https://github.com/akazdayo/nix-configs";
+    stars = 2;
+    language = "Nix";
+    pushedAt = "2026-03-03T15:21:43Z";
+    topics = [ ];
+    archived = false;
+    fork = false;
+  }
+  {
     name = "vrchat-web-rtsp";
     url = "https://github.com/akazdayo/vrchat-web-rtsp";
     stars = 2;
@@ -110,16 +120,6 @@
     fork = false;
   }
   {
-    name = "nix-configs";
-    url = "https://github.com/akazdayo/nix-configs";
-    stars = 1;
-    language = "Nix";
-    pushedAt = "2026-03-03T15:21:43Z";
-    topics = [ ];
-    archived = false;
-    fork = false;
-  }
-  {
     name = "nostr-profile";
     url = "https://github.com/akazdayo/nostr-profile";
     stars = 1;
@@ -178,6 +178,16 @@
     topics = [ ];
     archived = false;
     fork = false;
+  }
+  {
+    name = "2603LT";
+    url = "https://github.com/akazdayo/2603LT";
+    stars = 0;
+    language = null;
+    pushedAt = "2026-03-12T07:32:57Z";
+    topics = [ ];
+    archived = false;
+    fork = true;
   }
   {
     name = "AutoYukkuri-CPU";
@@ -554,7 +564,7 @@
     url = "https://github.com/akazdayo/digitalocean-nix-tf";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-03-10T04:47:46Z";
+    pushedAt = "2026-03-13T04:50:07Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -814,7 +824,7 @@
     url = "https://github.com/akazdayo/minecraft-proxy";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-03-11T04:28:20Z";
+    pushedAt = "2026-03-13T04:31:04Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -994,7 +1004,7 @@
     url = "https://github.com/akazdayo/openclaw-do-nix";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-03-12T04:49:54Z";
+    pushedAt = "2026-03-13T04:46:43Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1204,7 +1214,7 @@
     url = "https://github.com/akazdayo/tor-middle-relay.nix";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-03-10T04:33:58Z";
+    pushedAt = "2026-03-13T04:46:52Z";
     topics = [ ];
     archived = false;
     fork = false;

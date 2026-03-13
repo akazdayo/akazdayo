@@ -11,12 +11,12 @@
 - [AutoYukkuri](https://github.com/akazdayo/AutoYukkuri), 13 stars, primary language: Python, pushed 2024-07-26T05:35:12Z, topics: none listed
 - [YUKKURIKANIKATOOL](https://github.com/akazdayo/YUKKURIKANIKATOOL), 3 stars, primary language: Python, pushed 2023-02-20T01:45:29Z, topics: none listed
 - [code-museum-server](https://github.com/akazdayo/code-museum-server), 2 stars, primary language: TypeScript, pushed 2025-03-05T06:34:16Z, topics: none listed
-- [vrchat-web-rtsp](https://github.com/akazdayo/vrchat-web-rtsp), 2 stars, primary language: TypeScript, pushed 2026-02-04T07:24:59Z, topics: none listed
+- [nix-configs](https://github.com/akazdayo/nix-configs), 2 stars, primary language: Nix, pushed 2026-03-03T15:21:43Z, topics: none listed
 
 ## Language Trends
 
 - TypeScript: 34 repos
-- `null`: 31 repos
+- `null`: 32 repos
 - Python: 22 repos
 - Nix: 12 repos
 - Rust: 11 repos
@@ -30,11 +30,11 @@
 
 ## Recent Active Projects
 
-- [openclaw-do-nix](https://github.com/akazdayo/openclaw-do-nix), 0 stars, primary language: Nix, pushed 2026-03-12T04:49:54Z, topics: none listed
+- [digitalocean-nix-tf](https://github.com/akazdayo/digitalocean-nix-tf), 0 stars, primary language: Nix, pushed 2026-03-13T04:50:07Z, topics: none listed
+- [tor-middle-relay.nix](https://github.com/akazdayo/tor-middle-relay.nix), 0 stars, primary language: Nix, pushed 2026-03-13T04:46:52Z, topics: none listed
+- [openclaw-do-nix](https://github.com/akazdayo/openclaw-do-nix), 0 stars, primary language: Nix, pushed 2026-03-13T04:46:43Z, topics: none listed
+- [minecraft-proxy](https://github.com/akazdayo/minecraft-proxy), 0 stars, primary language: Nix, pushed 2026-03-13T04:31:04Z, topics: none listed
 - [akazdayo](https://github.com/akazdayo/akazdayo), 0 stars, primary language: Nix, pushed 2026-03-11T12:04:36Z, topics: config, github-config
-- [minecraft-proxy](https://github.com/akazdayo/minecraft-proxy), 0 stars, primary language: Nix, pushed 2026-03-11T04:28:20Z, topics: none listed
-- [digitalocean-nix-tf](https://github.com/akazdayo/digitalocean-nix-tf), 0 stars, primary language: Nix, pushed 2026-03-10T04:47:46Z, topics: none listed
-- [tor-middle-relay.nix](https://github.com/akazdayo/tor-middle-relay.nix), 0 stars, primary language: Nix, pushed 2026-03-10T04:33:58Z, topics: none listed
 
 ## Links
 
