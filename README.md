@@ -30,11 +30,11 @@
 
 ## Recent Active Projects
 
-- [digitalocean-nix-tf](https://github.com/akazdayo/digitalocean-nix-tf), 0 stars, primary language: Nix, pushed 2026-03-16T05:23:18Z, topics: none listed
+- [digitalocean-nix-tf](https://github.com/akazdayo/digitalocean-nix-tf), 0 stars, primary language: Nix, pushed 2026-03-17T04:58:18Z, topics: none listed
+- [openclaw-do-nix](https://github.com/akazdayo/openclaw-do-nix), 0 stars, primary language: Nix, pushed 2026-03-17T04:53:38Z, topics: none listed
+- [minecraft-proxy](https://github.com/akazdayo/minecraft-proxy), 0 stars, primary language: Nix, pushed 2026-03-17T04:51:01Z, topics: none listed
+- [neko-do](https://github.com/akazdayo/neko-do), 1 star, primary language: Nix, pushed 2026-03-17T04:49:34Z, topics: none listed
 - [tor-middle-relay.nix](https://github.com/akazdayo/tor-middle-relay.nix), 0 stars, primary language: Nix, pushed 2026-03-16T05:16:34Z, topics: none listed
-- [neko-do](https://github.com/akazdayo/neko-do), 1 star, primary language: Nix, pushed 2026-03-16T05:13:13Z, topics: none listed
-- [minecraft-proxy](https://github.com/akazdayo/minecraft-proxy), 0 stars, primary language: Nix, pushed 2026-03-16T05:12:01Z, topics: none listed
-- [nix-configs](https://github.com/akazdayo/nix-configs), 2 stars, primary language: Nix, pushed 2026-03-15T09:27:29Z, topics: none listed
 
 ## Links
 
