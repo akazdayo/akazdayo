@@ -854,7 +854,7 @@
     url = "https://github.com/akazdayo/minecraft-proxy";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-03-20T04:30:46Z";
+    pushedAt = "2026-03-21T04:22:53Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1124,7 +1124,7 @@
     url = "https://github.com/akazdayo/post-2603";
     stars = 0;
     language = "Typst";
-    pushedAt = "2026-03-19T17:17:52Z";
+    pushedAt = "2026-03-20T17:29:25Z";
     topics = [ ];
     archived = false;
     fork = false;

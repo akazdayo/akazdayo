@@ -30,8 +30,8 @@
 
 ## Recent Active Projects
 
-- [minecraft-proxy](https://github.com/akazdayo/minecraft-proxy), 0 stars, primary language: Nix, pushed 2026-03-20T04:30:46Z, topics: none listed
-- [post-2603](https://github.com/akazdayo/post-2603), 0 stars, primary language: Typst, pushed 2026-03-19T17:17:52Z, topics: none listed
+- [minecraft-proxy](https://github.com/akazdayo/minecraft-proxy), 0 stars, primary language: Nix, pushed 2026-03-21T04:22:53Z, topics: none listed
+- [post-2603](https://github.com/akazdayo/post-2603), 0 stars, primary language: Typst, pushed 2026-03-20T17:29:25Z, topics: none listed
 - [metrabs-with-godot-to-vrc](https://github.com/akazdayo/metrabs-with-godot-to-vrc), 0 stars, primary language: Python, pushed 2026-03-19T15:24:38Z, topics: none listed
 - [digitalocean-nix-tf](https://github.com/akazdayo/digitalocean-nix-tf), 0 stars, primary language: Nix, pushed 2026-03-19T04:59:54Z, topics: none listed
 - [tor-middle-relay.nix](https://github.com/akazdayo/tor-middle-relay.nix), 0 stars, primary language: Nix, pushed 2026-03-19T04:56:57Z, topics: none listed
