@@ -24,7 +24,7 @@
     url = "https://github.com/akazdayo/YUKKURIKANIKATOOL";
     stars = 3;
     language = "Python";
-    pushedAt = "2023-02-20T01:45:29Z";
+    pushedAt = "2026-03-21T15:02:23Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -44,7 +44,7 @@
     url = "https://github.com/akazdayo/nix-configs";
     stars = 2;
     language = "Nix";
-    pushedAt = "2026-03-15T09:27:29Z";
+    pushedAt = "2026-03-21T07:49:06Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -234,7 +234,7 @@
     url = "https://github.com/akazdayo/Cookie-AutoDelete";
     stars = 0;
     language = null;
-    pushedAt = "2024-06-23T04:20:30Z";
+    pushedAt = "2026-03-21T15:02:48Z";
     topics = [ ];
     archived = false;
     fork = true;
@@ -384,7 +384,7 @@
     url = "https://github.com/akazdayo/aikyo-aituberkit-bridge";
     stars = 0;
     language = "TypeScript";
-    pushedAt = "2025-10-11T08:23:59Z";
+    pushedAt = "2026-03-21T20:49:08Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -444,7 +444,7 @@
     url = "https://github.com/akazdayo/aituber-kit";
     stars = 0;
     language = null;
-    pushedAt = "2025-10-02T07:23:15Z";
+    pushedAt = "2026-03-21T15:04:06Z";
     topics = [ ];
     archived = false;
     fork = true;
@@ -514,7 +514,7 @@
     url = "https://github.com/akazdayo/ava";
     stars = 0;
     language = null;
-    pushedAt = "2025-12-05T09:35:16Z";
+    pushedAt = "2026-03-21T15:04:50Z";
     topics = [ ];
     archived = false;
     fork = true;
@@ -544,7 +544,7 @@
     url = "https://github.com/akazdayo/cooking-timeline";
     stars = 0;
     language = null;
-    pushedAt = "2025-11-19T19:06:47Z";
+    pushedAt = "2026-03-21T15:04:05Z";
     topics = [ ];
     archived = false;
     fork = true;
@@ -554,7 +554,7 @@
     url = "https://github.com/akazdayo/dekoboko";
     stars = 0;
     language = null;
-    pushedAt = "2024-12-29T08:42:35Z";
+    pushedAt = "2026-03-21T15:03:30Z";
     topics = [ ];
     archived = false;
     fork = true;
@@ -614,7 +614,7 @@
     url = "https://github.com/akazdayo/easy-live-platform";
     stars = 0;
     language = null;
-    pushedAt = "2025-07-24T17:47:06Z";
+    pushedAt = "2026-03-21T15:04:17Z";
     topics = [ ];
     archived = false;
     fork = true;
@@ -624,7 +624,7 @@
     url = "https://github.com/akazdayo/emoji-gen-cli";
     stars = 0;
     language = "Python";
-    pushedAt = "2025-09-12T13:54:39Z";
+    pushedAt = "2026-03-21T15:03:33Z";
     topics = [ ];
     archived = false;
     fork = true;
@@ -664,7 +664,7 @@
     url = "https://github.com/akazdayo/first-vuetify-app";
     stars = 0;
     language = "Vue";
-    pushedAt = "2023-01-24T11:47:11Z";
+    pushedAt = "2026-03-21T15:02:28Z";
     topics = [ ];
     archived = false;
     fork = true;
@@ -674,7 +674,7 @@
     url = "https://github.com/akazdayo/hack1_mrfrontend";
     stars = 0;
     language = "HTML";
-    pushedAt = "2025-06-07T03:22:16Z";
+    pushedAt = "2026-03-21T15:04:46Z";
     topics = [ ];
     archived = false;
     fork = true;
@@ -724,7 +724,7 @@
     url = "https://github.com/akazdayo/ipfs-sns";
     stars = 0;
     language = null;
-    pushedAt = "2025-05-18T12:04:18Z";
+    pushedAt = "2026-03-21T15:04:40Z";
     topics = [ ];
     archived = false;
     fork = true;
@@ -794,7 +794,7 @@
     url = "https://github.com/akazdayo/mandelbrot_set";
     stars = 0;
     language = "Rust";
-    pushedAt = "2026-01-20T11:45:34Z";
+    pushedAt = "2026-03-21T15:03:14Z";
     topics = [ ];
     archived = false;
     fork = true;
@@ -824,7 +824,7 @@
     url = "https://github.com/akazdayo/metrabs";
     stars = 0;
     language = "Python";
-    pushedAt = "2026-03-19T16:38:08Z";
+    pushedAt = "2026-03-21T15:05:04Z";
     topics = [ ];
     archived = false;
     fork = true;
@@ -1004,7 +1004,7 @@
     url = "https://github.com/akazdayo/nostter";
     stars = 0;
     language = "Svelte";
-    pushedAt = "2025-12-16T19:17:12Z";
+    pushedAt = "2026-03-21T15:05:03Z";
     topics = [ ];
     archived = false;
     fork = true;
@@ -1024,7 +1024,7 @@
     url = "https://github.com/akazdayo/odango";
     stars = 0;
     language = null;
-    pushedAt = "2025-03-28T15:47:40Z";
+    pushedAt = "2026-03-21T15:03:44Z";
     topics = [ ];
     archived = false;
     fork = true;
@@ -1034,7 +1034,7 @@
     url = "https://github.com/akazdayo/openclaw-do-nix";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-03-19T04:55:41Z";
+    pushedAt = "2026-03-22T04:54:05Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1064,7 +1064,7 @@
     url = "https://github.com/akazdayo/physiquest_animation_generator";
     stars = 0;
     language = null;
-    pushedAt = "2025-02-15T03:00:43Z";
+    pushedAt = "2026-03-21T15:04:37Z";
     topics = [ ];
     archived = false;
     fork = true;
@@ -1124,7 +1124,7 @@
     url = "https://github.com/akazdayo/post-2603";
     stars = 0;
     language = "Typst";
-    pushedAt = "2026-03-20T17:29:25Z";
+    pushedAt = "2026-03-22T03:08:26Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1304,7 +1304,7 @@
     url = "https://github.com/akazdayo/web-scrobbler";
     stars = 0;
     language = "TypeScript";
-    pushedAt = "2025-04-01T17:23:04Z";
+    pushedAt = "2026-03-21T15:03:45Z";
     topics = [ ];
     archived = false;
     fork = true;
@@ -1324,7 +1324,7 @@
     url = "https://github.com/akazdayo/welcome-nostr";
     stars = 0;
     language = null;
-    pushedAt = "2025-11-08T04:32:10Z";
+    pushedAt = "2026-03-21T15:04:29Z";
     topics = [ ];
     archived = false;
     fork = true;
@@ -1334,7 +1334,7 @@
     url = "https://github.com/akazdayo/winrt-tts-server";
     stars = 0;
     language = null;
-    pushedAt = "2025-12-03T15:16:14Z";
+    pushedAt = "2026-03-21T15:03:22Z";
     topics = [ ];
     archived = false;
     fork = true;
@@ -1354,7 +1354,7 @@
     url = "https://github.com/akazdayo/yamada-ui";
     stars = 0;
     language = null;
-    pushedAt = "2025-10-27T02:47:41Z";
+    pushedAt = "2026-03-21T15:05:37Z";
     topics = [ ];
     archived = false;
     fork = true;
