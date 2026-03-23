@@ -30,11 +30,11 @@
 
 ## Recent Active Projects
 
+- [physiquest-share](https://github.com/akazdayo/physiquest-share), 0 stars, primary language: TypeScript, pushed 2026-03-23T00:24:27Z, topics: none listed
+- [post-2603](https://github.com/akazdayo/post-2603), 0 stars, primary language: Typst, pushed 2026-03-22T17:05:19Z, topics: none listed
 - [openclaw-do-nix](https://github.com/akazdayo/openclaw-do-nix), 0 stars, primary language: Nix, pushed 2026-03-22T04:54:05Z, topics: none listed
-- [post-2603](https://github.com/akazdayo/post-2603), 0 stars, primary language: Typst, pushed 2026-03-22T03:08:26Z, topics: none listed
 - [aikyo-aituberkit-bridge](https://github.com/akazdayo/aikyo-aituberkit-bridge), 0 stars, primary language: TypeScript, pushed 2026-03-21T20:49:08Z, topics: none listed
 - [YUKKURIKANIKATOOL](https://github.com/akazdayo/YUKKURIKANIKATOOL), 3 stars, primary language: Python, pushed 2026-03-21T15:02:23Z, topics: none listed
-- [nix-configs](https://github.com/akazdayo/nix-configs), 2 stars, primary language: Nix, pushed 2026-03-21T07:49:06Z, topics: none listed
 
 ## Links
 
