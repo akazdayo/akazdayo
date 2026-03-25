@@ -30,11 +30,11 @@
 
 ## Recent Active Projects
 
+- [minecraft-proxy](https://github.com/akazdayo/minecraft-proxy), 0 stars, primary language: Nix, pushed 2026-03-25T04:48:34Z, topics: none listed
+- [my-portfolio](https://github.com/akazdayo/my-portfolio), 0 stars, primary language: TypeScript, pushed 2026-03-24T16:03:59Z, topics: none listed
 - [neko-do](https://github.com/akazdayo/neko-do), 1 star, primary language: Nix, pushed 2026-03-24T05:01:43Z, topics: none listed
 - [digitalocean-nix-tf](https://github.com/akazdayo/digitalocean-nix-tf), 0 stars, primary language: Nix, pushed 2026-03-24T04:59:33Z, topics: none listed
 - [tor-middle-relay.nix](https://github.com/akazdayo/tor-middle-relay.nix), 0 stars, primary language: Nix, pushed 2026-03-24T04:56:16Z, topics: none listed
-- [openclaw-do-nix](https://github.com/akazdayo/openclaw-do-nix), 0 stars, primary language: Nix, pushed 2026-03-24T04:55:37Z, topics: none listed
-- [minecraft-proxy](https://github.com/akazdayo/minecraft-proxy), 0 stars, primary language: Nix, pushed 2026-03-24T04:53:27Z, topics: none listed
 
 ## Links
 
