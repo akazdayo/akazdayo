@@ -9,7 +9,7 @@
 
 - [pixelart](https://github.com/akazdayo/pixelart), 35 stars, primary language: Python, pushed 2026-03-13T12:37:59Z, topics: converter, pixelart
 - [AutoYukkuri](https://github.com/akazdayo/AutoYukkuri), 13 stars, primary language: Python, pushed 2024-07-26T05:35:12Z, topics: none listed
-- [YUKKURIKANIKATOOL](https://github.com/akazdayo/YUKKURIKANIKATOOL), 3 stars, primary language: Python, pushed 2026-03-21T15:02:23Z, topics: none listed
+- [YUKKURIKANIKATOOL](https://github.com/akazdayo/YUKKURIKANIKATOOL), 3 stars, primary language: Python, pushed 2026-03-26T03:13:13Z, topics: none listed
 - [code-museum-server](https://github.com/akazdayo/code-museum-server), 2 stars, primary language: TypeScript, pushed 2025-03-05T06:34:16Z, topics: none listed
 - [nix-configs](https://github.com/akazdayo/nix-configs), 2 stars, primary language: Nix, pushed 2026-03-21T07:49:06Z, topics: none listed
 
@@ -30,11 +30,11 @@
 
 ## Recent Active Projects
 
-- [minecraft-proxy](https://github.com/akazdayo/minecraft-proxy), 0 stars, primary language: Nix, pushed 2026-03-25T04:48:34Z, topics: none listed
-- [my-portfolio](https://github.com/akazdayo/my-portfolio), 0 stars, primary language: TypeScript, pushed 2026-03-24T16:03:59Z, topics: none listed
-- [neko-do](https://github.com/akazdayo/neko-do), 1 star, primary language: Nix, pushed 2026-03-24T05:01:43Z, topics: none listed
-- [digitalocean-nix-tf](https://github.com/akazdayo/digitalocean-nix-tf), 0 stars, primary language: Nix, pushed 2026-03-24T04:59:33Z, topics: none listed
-- [tor-middle-relay.nix](https://github.com/akazdayo/tor-middle-relay.nix), 0 stars, primary language: Nix, pushed 2026-03-24T04:56:16Z, topics: none listed
+- [digitalocean-nix-tf](https://github.com/akazdayo/digitalocean-nix-tf), 0 stars, primary language: Nix, pushed 2026-03-26T05:12:19Z, topics: none listed
+- [tor-middle-relay.nix](https://github.com/akazdayo/tor-middle-relay.nix), 0 stars, primary language: Nix, pushed 2026-03-26T05:07:31Z, topics: none listed
+- [openclaw-do-nix](https://github.com/akazdayo/openclaw-do-nix), 0 stars, primary language: Nix, pushed 2026-03-26T05:07:03Z, topics: none listed
+- [minecraft-proxy](https://github.com/akazdayo/minecraft-proxy), 0 stars, primary language: Nix, pushed 2026-03-26T05:05:54Z, topics: none listed
+- [nostr-profile-embed](https://github.com/akazdayo/nostr-profile-embed), 0 stars, primary language: TypeScript, pushed 2026-03-26T03:43:13Z, topics: none listed
 
 ## Links
 
