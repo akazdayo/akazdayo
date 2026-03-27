@@ -4,7 +4,7 @@
     url = "https://github.com/akazdayo/pixelart";
     stars = 35;
     language = "Python";
-    pushedAt = "2026-03-13T12:37:59Z";
+    pushedAt = "2026-03-26T17:18:35Z";
     topics = [ "converter" "pixelart" ];
     archived = false;
     fork = false;
@@ -124,7 +124,7 @@
     url = "https://github.com/akazdayo/neko-do";
     stars = 1;
     language = "Nix";
-    pushedAt = "2026-03-24T05:01:43Z";
+    pushedAt = "2026-03-26T05:24:36Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -364,7 +364,7 @@
     url = "https://github.com/akazdayo/aikyo";
     stars = 0;
     language = "TypeScript";
-    pushedAt = "2026-03-13T15:36:13Z";
+    pushedAt = "2026-03-26T20:03:06Z";
     topics = [ ];
     archived = false;
     fork = true;
@@ -384,7 +384,7 @@
     url = "https://github.com/akazdayo/aikyo-aituberkit-bridge";
     stars = 0;
     language = "TypeScript";
-    pushedAt = "2026-03-21T20:49:08Z";
+    pushedAt = "2026-03-26T14:52:59Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -434,7 +434,7 @@
     url = "https://github.com/akazdayo/aikyo-yukkuri";
     stars = 0;
     language = "TypeScript";
-    pushedAt = "2026-03-25T15:04:20Z";
+    pushedAt = "2026-03-27T01:51:59Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -444,7 +444,7 @@
     url = "https://github.com/akazdayo/aituber-kit";
     stars = 0;
     language = null;
-    pushedAt = "2026-03-22T07:44:05Z";
+    pushedAt = "2026-03-26T15:11:30Z";
     topics = [ ];
     archived = false;
     fork = true;
@@ -584,7 +584,7 @@
     url = "https://github.com/akazdayo/disco-chan";
     stars = 0;
     language = "TypeScript";
-    pushedAt = "2024-10-31T10:52:49Z";
+    pushedAt = "2026-03-26T21:58:41Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -674,7 +674,7 @@
     url = "https://github.com/akazdayo/hack1_mrfrontend";
     stars = 0;
     language = "HTML";
-    pushedAt = "2026-03-26T04:32:30Z";
+    pushedAt = "2026-03-26T23:55:57Z";
     topics = [ ];
     archived = false;
     fork = true;
@@ -820,11 +820,21 @@
     fork = false;
   }
   {
+    name = "meishi";
+    url = "https://github.com/akazdayo/meishi";
+    stars = 0;
+    language = "Nix";
+    pushedAt = "2026-03-26T12:19:45Z";
+    topics = [ ];
+    archived = false;
+    fork = false;
+  }
+  {
     name = "metrabs";
     url = "https://github.com/akazdayo/metrabs";
     stars = 0;
     language = "Python";
-    pushedAt = "2026-03-21T15:05:04Z";
+    pushedAt = "2026-03-26T17:48:04Z";
     topics = [ ];
     archived = false;
     fork = true;
@@ -854,7 +864,7 @@
     url = "https://github.com/akazdayo/minecraft-proxy";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-03-26T05:05:54Z";
+    pushedAt = "2026-03-27T05:01:25Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -884,7 +894,7 @@
     url = "https://github.com/akazdayo/my-portfolio";
     stars = 0;
     language = "TypeScript";
-    pushedAt = "2026-03-24T16:03:59Z";
+    pushedAt = "2026-03-26T19:53:57Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1004,7 +1014,7 @@
     url = "https://github.com/akazdayo/nostter";
     stars = 0;
     language = "Svelte";
-    pushedAt = "2026-03-21T15:05:03Z";
+    pushedAt = "2026-03-26T10:39:22Z";
     topics = [ ];
     archived = false;
     fork = true;
@@ -1064,7 +1074,7 @@
     url = "https://github.com/akazdayo/physiquest_animation_generator";
     stars = 0;
     language = null;
-    pushedAt = "2026-03-21T15:04:37Z";
+    pushedAt = "2026-03-26T19:26:36Z";
     topics = [ ];
     archived = false;
     fork = true;
@@ -1084,7 +1094,7 @@
     url = "https://github.com/akazdayo/pixelart-astro";
     stars = 0;
     language = "Astro";
-    pushedAt = "2026-03-26T02:36:55Z";
+    pushedAt = "2026-03-26T19:41:50Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1144,7 +1154,7 @@
     url = "https://github.com/akazdayo/quiz-app";
     stars = 0;
     language = "TypeScript";
-    pushedAt = "2025-07-08T03:41:17Z";
+    pushedAt = "2026-03-26T19:47:33Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1264,7 +1274,7 @@
     url = "https://github.com/akazdayo/url-abstract";
     stars = 0;
     language = "Nix";
-    pushedAt = "2025-07-03T13:02:26Z";
+    pushedAt = "2026-03-26T21:45:52Z";
     topics = [ ];
     archived = false;
     fork = false;

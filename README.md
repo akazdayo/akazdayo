@@ -7,7 +7,7 @@
 
 ## Featured Repositories
 
-- [pixelart](https://github.com/akazdayo/pixelart), 35 stars, primary language: Python, pushed 2026-03-13T12:37:59Z, topics: converter, pixelart
+- [pixelart](https://github.com/akazdayo/pixelart), 35 stars, primary language: Python, pushed 2026-03-26T17:18:35Z, topics: converter, pixelart
 - [AutoYukkuri](https://github.com/akazdayo/AutoYukkuri), 13 stars, primary language: Python, pushed 2024-07-26T05:35:12Z, topics: none listed
 - [YUKKURIKANIKATOOL](https://github.com/akazdayo/YUKKURIKANIKATOOL), 3 stars, primary language: Python, pushed 2026-03-26T03:13:13Z, topics: none listed
 - [code-museum-server](https://github.com/akazdayo/code-museum-server), 2 stars, primary language: TypeScript, pushed 2025-03-05T06:34:16Z, topics: none listed
@@ -18,7 +18,7 @@
 - TypeScript: 34 repos
 - `null`: 33 repos
 - Python: 23 repos
-- Nix: 13 repos
+- Nix: 14 repos
 - Rust: 11 repos
 
 ## Topic Trends
@@ -30,11 +30,11 @@
 
 ## Recent Active Projects
 
-- [digitalocean-nix-tf](https://github.com/akazdayo/digitalocean-nix-tf), 0 stars, primary language: Nix, pushed 2026-03-26T05:12:19Z, topics: none listed
-- [tor-middle-relay.nix](https://github.com/akazdayo/tor-middle-relay.nix), 0 stars, primary language: Nix, pushed 2026-03-26T05:07:31Z, topics: none listed
-- [openclaw-do-nix](https://github.com/akazdayo/openclaw-do-nix), 0 stars, primary language: Nix, pushed 2026-03-26T05:07:03Z, topics: none listed
-- [minecraft-proxy](https://github.com/akazdayo/minecraft-proxy), 0 stars, primary language: Nix, pushed 2026-03-26T05:05:54Z, topics: none listed
-- [nostr-profile-embed](https://github.com/akazdayo/nostr-profile-embed), 0 stars, primary language: TypeScript, pushed 2026-03-26T03:43:13Z, topics: none listed
+- [minecraft-proxy](https://github.com/akazdayo/minecraft-proxy), 0 stars, primary language: Nix, pushed 2026-03-27T05:01:25Z, topics: none listed
+- [aikyo-yukkuri](https://github.com/akazdayo/aikyo-yukkuri), 0 stars, primary language: TypeScript, pushed 2026-03-27T01:51:59Z, topics: none listed
+- [disco-chan](https://github.com/akazdayo/disco-chan), 0 stars, primary language: TypeScript, pushed 2026-03-26T21:58:41Z, topics: none listed
+- [url-abstract](https://github.com/akazdayo/url-abstract), 0 stars, primary language: Nix, pushed 2026-03-26T21:45:52Z, topics: none listed
+- [my-portfolio](https://github.com/akazdayo/my-portfolio), 0 stars, primary language: TypeScript, pushed 2026-03-26T19:53:57Z, topics: none listed
 
 ## Links
 
