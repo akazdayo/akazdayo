@@ -30,11 +30,11 @@
 
 ## Recent Active Projects
 
-- [minecraft-proxy](https://github.com/akazdayo/minecraft-proxy), 0 stars, primary language: Nix, pushed 2026-03-27T05:01:25Z, topics: none listed
+- [minecraft-proxy](https://github.com/akazdayo/minecraft-proxy), 0 stars, primary language: Nix, pushed 2026-03-28T04:47:41Z, topics: none listed
+- [aikyo-aituberkit-bridge](https://github.com/akazdayo/aikyo-aituberkit-bridge), 0 stars, primary language: TypeScript, pushed 2026-03-28T00:31:08Z, topics: none listed
 - [aikyo-yukkuri](https://github.com/akazdayo/aikyo-yukkuri), 0 stars, primary language: TypeScript, pushed 2026-03-27T01:51:59Z, topics: none listed
 - [disco-chan](https://github.com/akazdayo/disco-chan), 0 stars, primary language: TypeScript, pushed 2026-03-26T21:58:41Z, topics: none listed
 - [url-abstract](https://github.com/akazdayo/url-abstract), 0 stars, primary language: Nix, pushed 2026-03-26T21:45:52Z, topics: none listed
-- [my-portfolio](https://github.com/akazdayo/my-portfolio), 0 stars, primary language: TypeScript, pushed 2026-03-26T19:53:57Z, topics: none listed
 
 ## Links
 
