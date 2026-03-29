@@ -434,7 +434,7 @@
     url = "https://github.com/akazdayo/aikyo-yukkuri";
     stars = 0;
     language = "TypeScript";
-    pushedAt = "2026-03-27T01:51:59Z";
+    pushedAt = "2026-03-28T21:20:08Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -444,7 +444,7 @@
     url = "https://github.com/akazdayo/aituber-kit";
     stars = 0;
     language = null;
-    pushedAt = "2026-03-28T00:30:57Z";
+    pushedAt = "2026-03-28T08:17:24Z";
     topics = [ ];
     archived = false;
     fork = true;
@@ -720,6 +720,16 @@
     fork = false;
   }
   {
+    name = "instagram-for-techgeek";
+    url = "https://github.com/akazdayo/instagram-for-techgeek";
+    stars = 0;
+    language = "Astro";
+    pushedAt = "2026-03-28T15:48:53Z";
+    topics = [ ];
+    archived = false;
+    fork = false;
+  }
+  {
     name = "ipfs-sns";
     url = "https://github.com/akazdayo/ipfs-sns";
     stars = 0;
@@ -864,7 +874,7 @@
     url = "https://github.com/akazdayo/minecraft-proxy";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-03-28T04:47:41Z";
+    pushedAt = "2026-03-29T05:04:51Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1044,7 +1054,7 @@
     url = "https://github.com/akazdayo/openclaw-do-nix";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-03-26T05:07:03Z";
+    pushedAt = "2026-03-29T05:12:06Z";
     topics = [ ];
     archived = false;
     fork = false;
