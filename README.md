@@ -11,7 +11,7 @@
 - [AutoYukkuri](https://github.com/akazdayo/AutoYukkuri), 13 stars, primary language: Python, pushed 2024-07-26T05:35:12Z, topics: none listed
 - [YUKKURIKANIKATOOL](https://github.com/akazdayo/YUKKURIKANIKATOOL), 3 stars, primary language: Python, pushed 2026-03-26T03:13:13Z, topics: none listed
 - [code-museum-server](https://github.com/akazdayo/code-museum-server), 2 stars, primary language: TypeScript, pushed 2025-03-05T06:34:16Z, topics: none listed
-- [nix-configs](https://github.com/akazdayo/nix-configs), 2 stars, primary language: Nix, pushed 2026-03-21T07:49:06Z, topics: none listed
+- [nix-configs](https://github.com/akazdayo/nix-configs), 2 stars, primary language: Nix, pushed 2026-04-01T04:49:43Z, topics: none listed
 
 ## Language Trends
 
@@ -30,11 +30,11 @@
 
 ## Recent Active Projects
 
-- [minecraft-proxy](https://github.com/akazdayo/minecraft-proxy), 0 stars, primary language: Nix, pushed 2026-03-31T05:09:08Z, topics: none listed
+- [minecraft-proxy](https://github.com/akazdayo/minecraft-proxy), 0 stars, primary language: Nix, pushed 2026-04-01T05:16:55Z, topics: none listed
+- [nix-configs](https://github.com/akazdayo/nix-configs), 2 stars, primary language: Nix, pushed 2026-04-01T04:49:43Z, topics: none listed
 - [openclaw-do-nix](https://github.com/akazdayo/openclaw-do-nix), 0 stars, primary language: Nix, pushed 2026-03-31T05:07:42Z, topics: none listed
 - [pixelart](https://github.com/akazdayo/pixelart), 35 stars, primary language: Python, pushed 2026-03-30T20:10:07Z, topics: converter, pixelart
 - [ScratchArt](https://github.com/akazdayo/ScratchArt), 0 stars, primary language: Python, pushed 2026-03-30T16:27:46Z, topics: none listed
-- [discord-meeting-note](https://github.com/akazdayo/discord-meeting-note), 0 stars, primary language: TypeScript, pushed 2026-03-30T15:32:24Z, topics: none listed
 
 ## Links
 
