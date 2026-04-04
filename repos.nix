@@ -44,7 +44,7 @@
     url = "https://github.com/akazdayo/nix-configs";
     stars = 2;
     language = "Nix";
-    pushedAt = "2026-04-02T12:05:05Z";
+    pushedAt = "2026-04-03T11:29:37Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -910,6 +910,16 @@
     fork = false;
   }
   {
+    name = "nakasyou.github.io";
+    url = "https://github.com/akazdayo/nakasyou.github.io";
+    stars = 0;
+    language = null;
+    pushedAt = "2026-04-03T10:45:02Z";
+    topics = [ ];
+    archived = false;
+    fork = true;
+  }
+  {
     name = "nix-dotenv";
     url = "https://github.com/akazdayo/nix-dotenv";
     stars = 0;
@@ -1054,7 +1064,7 @@
     url = "https://github.com/akazdayo/openclaw-do-nix";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-04-03T05:05:44Z";
+    pushedAt = "2026-04-04T04:51:42Z";
     topics = [ ];
     archived = false;
     fork = false;
