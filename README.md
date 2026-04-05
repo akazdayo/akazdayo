@@ -11,7 +11,7 @@
 - [AutoYukkuri](https://github.com/akazdayo/AutoYukkuri), 13 stars, primary language: Python, pushed 2024-07-26T05:35:12Z, topics: none listed
 - [YUKKURIKANIKATOOL](https://github.com/akazdayo/YUKKURIKANIKATOOL), 3 stars, primary language: Python, pushed 2026-03-26T03:13:13Z, topics: none listed
 - [code-museum-server](https://github.com/akazdayo/code-museum-server), 2 stars, primary language: TypeScript, pushed 2025-03-05T06:34:16Z, topics: none listed
-- [nix-configs](https://github.com/akazdayo/nix-configs), 2 stars, primary language: Nix, pushed 2026-04-03T11:29:37Z, topics: none listed
+- [nix-configs](https://github.com/akazdayo/nix-configs), 2 stars, primary language: Nix, pushed 2026-04-04T06:07:42Z, topics: none listed
 
 ## Language Trends
 
@@ -30,11 +30,11 @@
 
 ## Recent Active Projects
 
-- [openclaw-do-nix](https://github.com/akazdayo/openclaw-do-nix), 0 stars, primary language: Nix, pushed 2026-04-04T04:51:42Z, topics: none listed
-- [nix-configs](https://github.com/akazdayo/nix-configs), 2 stars, primary language: Nix, pushed 2026-04-03T11:29:37Z, topics: none listed
-- [minecraft-proxy](https://github.com/akazdayo/minecraft-proxy), 0 stars, primary language: Nix, pushed 2026-04-03T05:01:54Z, topics: none listed
-- [aikyo-aituberkit-bridge](https://github.com/akazdayo/aikyo-aituberkit-bridge), 0 stars, primary language: TypeScript, pushed 2026-04-03T03:18:17Z, topics: none listed
-- [MusicArcade2](https://github.com/akazdayo/MusicArcade2), 0 stars, primary language: Haxe, pushed 2026-04-03T02:45:01Z, topics: none listed
+- [openclaw-do-nix](https://github.com/akazdayo/openclaw-do-nix), 0 stars, primary language: Nix, pushed 2026-04-05T05:14:19Z, topics: none listed
+- [minecraft-proxy](https://github.com/akazdayo/minecraft-proxy), 0 stars, primary language: Nix, pushed 2026-04-05T05:10:27Z, topics: none listed
+- [ScratchArt](https://github.com/akazdayo/ScratchArt), 0 stars, primary language: Python, pushed 2026-04-04T07:48:59Z, topics: none listed
+- [nostr-profile-embed](https://github.com/akazdayo/nostr-profile-embed), 0 stars, primary language: TypeScript, pushed 2026-04-04T07:20:16Z, topics: none listed
+- [pixelart-astro](https://github.com/akazdayo/pixelart-astro), 0 stars, primary language: Astro, pushed 2026-04-04T07:19:34Z, topics: none listed
 
 ## Links
 
