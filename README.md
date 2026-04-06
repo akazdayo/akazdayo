@@ -30,8 +30,8 @@
 
 ## Recent Active Projects
 
+- [minecraft-proxy](https://github.com/akazdayo/minecraft-proxy), 0 stars, primary language: Nix, pushed 2026-04-06T05:15:56Z, topics: none listed
 - [openclaw-do-nix](https://github.com/akazdayo/openclaw-do-nix), 0 stars, primary language: Nix, pushed 2026-04-05T05:14:19Z, topics: none listed
-- [minecraft-proxy](https://github.com/akazdayo/minecraft-proxy), 0 stars, primary language: Nix, pushed 2026-04-05T05:10:27Z, topics: none listed
 - [ScratchArt](https://github.com/akazdayo/ScratchArt), 0 stars, primary language: Python, pushed 2026-04-04T07:48:59Z, topics: none listed
 - [nostr-profile-embed](https://github.com/akazdayo/nostr-profile-embed), 0 stars, primary language: TypeScript, pushed 2026-04-04T07:20:16Z, topics: none listed
 - [pixelart-astro](https://github.com/akazdayo/pixelart-astro), 0 stars, primary language: Astro, pushed 2026-04-04T07:19:34Z, topics: none listed
