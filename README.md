@@ -11,7 +11,7 @@
 - [AutoYukkuri](https://github.com/akazdayo/AutoYukkuri), 13 stars, primary language: Python, pushed 2024-07-26T05:35:12Z, topics: none listed
 - [YUKKURIKANIKATOOL](https://github.com/akazdayo/YUKKURIKANIKATOOL), 3 stars, primary language: Python, pushed 2026-03-26T03:13:13Z, topics: none listed
 - [code-museum-server](https://github.com/akazdayo/code-museum-server), 2 stars, primary language: TypeScript, pushed 2025-03-05T06:34:16Z, topics: none listed
-- [nix-configs](https://github.com/akazdayo/nix-configs), 2 stars, primary language: Nix, pushed 2026-04-04T06:07:42Z, topics: none listed
+- [nix-configs](https://github.com/akazdayo/nix-configs), 2 stars, primary language: Nix, pushed 2026-04-07T05:50:38Z, topics: none listed
 
 ## Language Trends
 
@@ -30,11 +30,11 @@
 
 ## Recent Active Projects
 
-- [digitalocean-nix-tf](https://github.com/akazdayo/digitalocean-nix-tf), 0 stars, primary language: Nix, pushed 2026-04-07T05:15:15Z, topics: none listed
-- [openclaw-do-nix](https://github.com/akazdayo/openclaw-do-nix), 0 stars, primary language: Nix, pushed 2026-04-07T05:12:00Z, topics: none listed
-- [tor-middle-relay.nix](https://github.com/akazdayo/tor-middle-relay.nix), 0 stars, primary language: Nix, pushed 2026-04-07T05:10:53Z, topics: none listed
-- [minecraft-proxy](https://github.com/akazdayo/minecraft-proxy), 0 stars, primary language: Nix, pushed 2026-04-07T05:09:30Z, topics: none listed
-- [neko-do](https://github.com/akazdayo/neko-do), 1 star, primary language: Nix, pushed 2026-04-07T05:07:07Z, topics: none listed
+- [openclaw-do-nix](https://github.com/akazdayo/openclaw-do-nix), 0 stars, primary language: Nix, pushed 2026-04-08T05:12:08Z, topics: none listed
+- [minecraft-proxy](https://github.com/akazdayo/minecraft-proxy), 0 stars, primary language: Nix, pushed 2026-04-08T05:05:20Z, topics: none listed
+- [nostr-workers-relay](https://github.com/akazdayo/nostr-workers-relay), 0 stars, primary language: TypeScript, pushed 2026-04-08T02:24:53Z, topics: none listed
+- [aikyo-yukkuri](https://github.com/akazdayo/aikyo-yukkuri), 0 stars, primary language: TypeScript, pushed 2026-04-08T02:23:55Z, topics: none listed
+- [nostr-profile-embed](https://github.com/akazdayo/nostr-profile-embed), 0 stars, primary language: TypeScript, pushed 2026-04-08T01:55:13Z, topics: none listed
 
 ## Links
 
