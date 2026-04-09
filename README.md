@@ -30,11 +30,11 @@
 
 ## Recent Active Projects
 
-- [openclaw-do-nix](https://github.com/akazdayo/openclaw-do-nix), 0 stars, primary language: Nix, pushed 2026-04-08T05:12:08Z, topics: none listed
-- [minecraft-proxy](https://github.com/akazdayo/minecraft-proxy), 0 stars, primary language: Nix, pushed 2026-04-08T05:05:20Z, topics: none listed
+- [openclaw-do-nix](https://github.com/akazdayo/openclaw-do-nix), 0 stars, primary language: Nix, pushed 2026-04-09T05:10:42Z, topics: none listed
+- [minecraft-proxy](https://github.com/akazdayo/minecraft-proxy), 0 stars, primary language: Nix, pushed 2026-04-09T05:02:42Z, topics: none listed
+- [aikyo-aituberkit-bridge](https://github.com/akazdayo/aikyo-aituberkit-bridge), 0 stars, primary language: TypeScript, pushed 2026-04-09T02:36:51Z, topics: none listed
+- [discord-meeting-note](https://github.com/akazdayo/discord-meeting-note), 0 stars, primary language: TypeScript, pushed 2026-04-08T06:00:58Z, topics: none listed
 - [nostr-workers-relay](https://github.com/akazdayo/nostr-workers-relay), 0 stars, primary language: TypeScript, pushed 2026-04-08T02:24:53Z, topics: none listed
-- [aikyo-yukkuri](https://github.com/akazdayo/aikyo-yukkuri), 0 stars, primary language: TypeScript, pushed 2026-04-08T02:23:55Z, topics: none listed
-- [nostr-profile-embed](https://github.com/akazdayo/nostr-profile-embed), 0 stars, primary language: TypeScript, pushed 2026-04-08T01:55:13Z, topics: none listed
 
 ## Links
 
