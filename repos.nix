@@ -44,7 +44,7 @@
     url = "https://github.com/akazdayo/nix-configs";
     stars = 2;
     language = "Nix";
-    pushedAt = "2026-04-07T05:50:38Z";
+    pushedAt = "2026-04-09T09:51:30Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -874,7 +874,7 @@
     url = "https://github.com/akazdayo/minecraft-proxy";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-04-09T05:02:42Z";
+    pushedAt = "2026-04-10T05:16:47Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1034,7 +1034,7 @@
     url = "https://github.com/akazdayo/nostter";
     stars = 0;
     language = "Svelte";
-    pushedAt = "2026-04-09T02:53:03Z";
+    pushedAt = "2026-04-10T03:27:21Z";
     topics = [ ];
     archived = false;
     fork = true;
@@ -1064,7 +1064,7 @@
     url = "https://github.com/akazdayo/openclaw-do-nix";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-04-09T05:10:42Z";
+    pushedAt = "2026-04-10T05:25:58Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1235,6 +1235,16 @@
     stars = 0;
     language = "Rust";
     pushedAt = "2025-12-21T09:37:08Z";
+    topics = [ ];
+    archived = false;
+    fork = false;
+  }
+  {
+    name = "speq";
+    url = "https://github.com/akazdayo/speq";
+    stars = 0;
+    language = "TypeScript";
+    pushedAt = "2026-04-09T17:32:35Z";
     topics = [ ];
     archived = false;
     fork = false;
