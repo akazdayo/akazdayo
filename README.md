@@ -30,11 +30,11 @@
 
 ## Recent Active Projects
 
-- [openclaw-do-nix](https://github.com/akazdayo/openclaw-do-nix), 0 stars, primary language: Nix, pushed 2026-04-10T05:25:58Z, topics: none listed
-- [minecraft-proxy](https://github.com/akazdayo/minecraft-proxy), 0 stars, primary language: Nix, pushed 2026-04-10T05:16:47Z, topics: none listed
-- [speq](https://github.com/akazdayo/speq), 0 stars, primary language: TypeScript, pushed 2026-04-09T17:32:35Z, topics: none listed
-- [nix-configs](https://github.com/akazdayo/nix-configs), 2 stars, primary language: Nix, pushed 2026-04-09T09:51:30Z, topics: none listed
-- [aikyo-aituberkit-bridge](https://github.com/akazdayo/aikyo-aituberkit-bridge), 0 stars, primary language: TypeScript, pushed 2026-04-09T02:36:51Z, topics: none listed
+- [tor-middle-relay.nix](https://github.com/akazdayo/tor-middle-relay.nix), 0 stars, primary language: Nix, pushed 2026-04-11T04:56:34Z, topics: none listed
+- [openclaw-do-nix](https://github.com/akazdayo/openclaw-do-nix), 0 stars, primary language: Nix, pushed 2026-04-11T04:56:11Z, topics: none listed
+- [minecraft-proxy](https://github.com/akazdayo/minecraft-proxy), 0 stars, primary language: Nix, pushed 2026-04-11T04:53:30Z, topics: none listed
+- [neko-do](https://github.com/akazdayo/neko-do), 1 star, primary language: Nix, pushed 2026-04-11T04:52:33Z, topics: none listed
+- [nostr-kind1-csv](https://github.com/akazdayo/nostr-kind1-csv), 0 stars, primary language: Svelte, pushed 2026-04-10T19:13:23Z, topics: none listed
 
 ## Links
 
