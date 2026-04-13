@@ -11,7 +11,7 @@
 - [AutoYukkuri](https://github.com/akazdayo/AutoYukkuri), 13 stars, primary language: Python, pushed 2024-07-26T05:35:12Z, topics: none listed
 - [YUKKURIKANIKATOOL](https://github.com/akazdayo/YUKKURIKANIKATOOL), 3 stars, primary language: Python, pushed 2026-03-26T03:13:13Z, topics: none listed
 - [code-museum-server](https://github.com/akazdayo/code-museum-server), 2 stars, primary language: TypeScript, pushed 2025-03-05T06:34:16Z, topics: none listed
-- [nix-configs](https://github.com/akazdayo/nix-configs), 2 stars, primary language: Nix, pushed 2026-04-11T08:08:00Z, topics: none listed
+- [nix-configs](https://github.com/akazdayo/nix-configs), 2 stars, primary language: Nix, pushed 2026-04-12T09:45:36Z, topics: none listed
 
 ## Language Trends
 
@@ -30,11 +30,11 @@
 
 ## Recent Active Projects
 
-- [openclaw-do-nix](https://github.com/akazdayo/openclaw-do-nix), 0 stars, primary language: Nix, pushed 2026-04-12T05:24:17Z, topics: none listed
-- [nix-configs](https://github.com/akazdayo/nix-configs), 2 stars, primary language: Nix, pushed 2026-04-11T08:08:00Z, topics: none listed
+- [openclaw-do-nix](https://github.com/akazdayo/openclaw-do-nix), 0 stars, primary language: Nix, pushed 2026-04-13T05:43:09Z, topics: none listed
+- [minecraft-proxy](https://github.com/akazdayo/minecraft-proxy), 0 stars, primary language: Nix, pushed 2026-04-13T05:33:00Z, topics: none listed
+- [aikyo-aituberkit-bridge](https://github.com/akazdayo/aikyo-aituberkit-bridge), 0 stars, primary language: TypeScript, pushed 2026-04-12T13:53:56Z, topics: none listed
+- [nix-configs](https://github.com/akazdayo/nix-configs), 2 stars, primary language: Nix, pushed 2026-04-12T09:45:36Z, topics: none listed
 - [tor-middle-relay.nix](https://github.com/akazdayo/tor-middle-relay.nix), 0 stars, primary language: Nix, pushed 2026-04-11T04:56:34Z, topics: none listed
-- [minecraft-proxy](https://github.com/akazdayo/minecraft-proxy), 0 stars, primary language: Nix, pushed 2026-04-11T04:53:30Z, topics: none listed
-- [neko-do](https://github.com/akazdayo/neko-do), 1 star, primary language: Nix, pushed 2026-04-11T04:52:33Z, topics: none listed
 
 ## Links
 
