@@ -16,7 +16,7 @@
 ## Language Trends
 
 - TypeScript: 36 repos
-- `null`: 34 repos
+- `null`: 35 repos
 - Python: 23 repos
 - Nix: 13 repos
 - Rust: 11 repos
@@ -30,11 +30,11 @@
 
 ## Recent Active Projects
 
-- [openclaw-do-nix](https://github.com/akazdayo/openclaw-do-nix), 0 stars, primary language: Nix, pushed 2026-04-14T05:24:22Z, topics: none listed
+- [openclaw-do-nix](https://github.com/akazdayo/openclaw-do-nix), 0 stars, primary language: Nix, pushed 2026-04-15T05:24:39Z, topics: none listed
+- [minecraft-proxy](https://github.com/akazdayo/minecraft-proxy), 0 stars, primary language: Nix, pushed 2026-04-15T05:15:24Z, topics: none listed
 - [MathGame-Rust](https://github.com/akazdayo/MathGame-Rust), 0 stars, primary language: Rust, pushed 2026-04-14T02:58:05Z, topics: none listed
 - [pixelart](https://github.com/akazdayo/pixelart), 35 stars, primary language: Python, pushed 2026-04-14T02:38:38Z, topics: converter, pixelart
 - [physiquest-share](https://github.com/akazdayo/physiquest-share), 0 stars, primary language: TypeScript, pushed 2026-04-13T06:32:29Z, topics: none listed
-- [minecraft-proxy](https://github.com/akazdayo/minecraft-proxy), 0 stars, primary language: Nix, pushed 2026-04-13T05:33:00Z, topics: none listed
 
 ## Links
 
