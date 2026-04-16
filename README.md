@@ -7,15 +7,15 @@
 
 ## Featured Repositories
 
-- [pixelart](https://github.com/akazdayo/pixelart), 35 stars, primary language: Python, pushed 2026-04-14T02:38:38Z, topics: converter, pixelart
+- [pixelart](https://github.com/akazdayo/pixelart), 35 stars, primary language: Python, pushed 2026-04-16T05:21:00Z, topics: converter, pixelart
 - [AutoYukkuri](https://github.com/akazdayo/AutoYukkuri), 13 stars, primary language: Python, pushed 2024-07-26T05:35:12Z, topics: none listed
 - [YUKKURIKANIKATOOL](https://github.com/akazdayo/YUKKURIKANIKATOOL), 3 stars, primary language: Python, pushed 2026-03-26T03:13:13Z, topics: none listed
 - [code-museum-server](https://github.com/akazdayo/code-museum-server), 2 stars, primary language: TypeScript, pushed 2025-03-05T06:34:16Z, topics: none listed
-- [nix-configs](https://github.com/akazdayo/nix-configs), 2 stars, primary language: Nix, pushed 2026-04-12T09:45:36Z, topics: none listed
+- [nix-configs](https://github.com/akazdayo/nix-configs), 2 stars, primary language: Nix, pushed 2026-04-15T07:08:53Z, topics: none listed
 
 ## Language Trends
 
-- TypeScript: 36 repos
+- TypeScript: 37 repos
 - `null`: 35 repos
 - Python: 23 repos
 - Nix: 13 repos
@@ -30,11 +30,11 @@
 
 ## Recent Active Projects
 
-- [openclaw-do-nix](https://github.com/akazdayo/openclaw-do-nix), 0 stars, primary language: Nix, pushed 2026-04-15T05:24:39Z, topics: none listed
-- [minecraft-proxy](https://github.com/akazdayo/minecraft-proxy), 0 stars, primary language: Nix, pushed 2026-04-15T05:15:24Z, topics: none listed
-- [MathGame-Rust](https://github.com/akazdayo/MathGame-Rust), 0 stars, primary language: Rust, pushed 2026-04-14T02:58:05Z, topics: none listed
-- [pixelart](https://github.com/akazdayo/pixelart), 35 stars, primary language: Python, pushed 2026-04-14T02:38:38Z, topics: converter, pixelart
-- [physiquest-share](https://github.com/akazdayo/physiquest-share), 0 stars, primary language: TypeScript, pushed 2026-04-13T06:32:29Z, topics: none listed
+- [digitalocean-nix-tf](https://github.com/akazdayo/digitalocean-nix-tf), 0 stars, primary language: Nix, pushed 2026-04-16T05:37:06Z, topics: none listed
+- [minecraft-proxy](https://github.com/akazdayo/minecraft-proxy), 0 stars, primary language: Nix, pushed 2026-04-16T05:29:10Z, topics: none listed
+- [neko-do](https://github.com/akazdayo/neko-do), 1 star, primary language: Nix, pushed 2026-04-16T05:26:27Z, topics: none listed
+- [pixelart](https://github.com/akazdayo/pixelart), 35 stars, primary language: Python, pushed 2026-04-16T05:21:00Z, topics: converter, pixelart
+- [aikyo-aituberkit-bridge](https://github.com/akazdayo/aikyo-aituberkit-bridge), 0 stars, primary language: TypeScript, pushed 2026-04-16T02:27:51Z, topics: none listed
 
 ## Links
 
