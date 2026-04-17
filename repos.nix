@@ -2,7 +2,7 @@
   {
     name = "pixelart";
     url = "https://github.com/akazdayo/pixelart";
-    stars = 35;
+    stars = 36;
     language = "Python";
     pushedAt = "2026-04-16T05:21:00Z";
     topics = [ "converter" "pixelart" ];
@@ -404,7 +404,7 @@
     url = "https://github.com/akazdayo/aikyo-aituberkit-bridge";
     stars = 0;
     language = "TypeScript";
-    pushedAt = "2026-04-16T02:27:51Z";
+    pushedAt = "2026-04-17T01:06:53Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -464,7 +464,7 @@
     url = "https://github.com/akazdayo/aituber-kit";
     stars = 0;
     language = null;
-    pushedAt = "2026-04-16T03:24:13Z";
+    pushedAt = "2026-04-17T05:20:05Z";
     topics = [ ];
     archived = false;
     fork = true;
@@ -554,7 +554,7 @@
     url = "https://github.com/akazdayo/chrome-whisper";
     stars = 0;
     language = "TypeScript";
-    pushedAt = "2026-04-07T00:41:10Z";
+    pushedAt = "2026-04-17T03:50:52Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1084,7 +1084,7 @@
     url = "https://github.com/akazdayo/openclaw-do-nix";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-04-15T05:24:39Z";
+    pushedAt = "2026-04-16T05:45:32Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1314,7 +1314,7 @@
     url = "https://github.com/akazdayo/tor-middle-relay.nix";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-04-11T04:56:34Z";
+    pushedAt = "2026-04-16T05:47:53Z";
     topics = [ ];
     archived = false;
     fork = false;

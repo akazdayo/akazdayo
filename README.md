@@ -7,7 +7,7 @@
 
 ## Featured Repositories
 
-- [pixelart](https://github.com/akazdayo/pixelart), 35 stars, primary language: Python, pushed 2026-04-16T05:21:00Z, topics: converter, pixelart
+- [pixelart](https://github.com/akazdayo/pixelart), 36 stars, primary language: Python, pushed 2026-04-16T05:21:00Z, topics: converter, pixelart
 - [AutoYukkuri](https://github.com/akazdayo/AutoYukkuri), 13 stars, primary language: Python, pushed 2024-07-26T05:35:12Z, topics: none listed
 - [YUKKURIKANIKATOOL](https://github.com/akazdayo/YUKKURIKANIKATOOL), 3 stars, primary language: Python, pushed 2026-03-26T03:13:13Z, topics: none listed
 - [code-museum-server](https://github.com/akazdayo/code-museum-server), 2 stars, primary language: TypeScript, pushed 2025-03-05T06:34:16Z, topics: none listed
@@ -30,11 +30,11 @@
 
 ## Recent Active Projects
 
+- [chrome-whisper](https://github.com/akazdayo/chrome-whisper), 0 stars, primary language: TypeScript, pushed 2026-04-17T03:50:52Z, topics: none listed
+- [aikyo-aituberkit-bridge](https://github.com/akazdayo/aikyo-aituberkit-bridge), 0 stars, primary language: TypeScript, pushed 2026-04-17T01:06:53Z, topics: none listed
+- [tor-middle-relay.nix](https://github.com/akazdayo/tor-middle-relay.nix), 0 stars, primary language: Nix, pushed 2026-04-16T05:47:53Z, topics: none listed
+- [openclaw-do-nix](https://github.com/akazdayo/openclaw-do-nix), 0 stars, primary language: Nix, pushed 2026-04-16T05:45:32Z, topics: none listed
 - [digitalocean-nix-tf](https://github.com/akazdayo/digitalocean-nix-tf), 0 stars, primary language: Nix, pushed 2026-04-16T05:37:06Z, topics: none listed
-- [minecraft-proxy](https://github.com/akazdayo/minecraft-proxy), 0 stars, primary language: Nix, pushed 2026-04-16T05:29:10Z, topics: none listed
-- [neko-do](https://github.com/akazdayo/neko-do), 1 star, primary language: Nix, pushed 2026-04-16T05:26:27Z, topics: none listed
-- [pixelart](https://github.com/akazdayo/pixelart), 35 stars, primary language: Python, pushed 2026-04-16T05:21:00Z, topics: converter, pixelart
-- [aikyo-aituberkit-bridge](https://github.com/akazdayo/aikyo-aituberkit-bridge), 0 stars, primary language: TypeScript, pushed 2026-04-16T02:27:51Z, topics: none listed
 
 ## Links
 
