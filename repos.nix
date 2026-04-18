@@ -30,6 +30,16 @@
     fork = false;
   }
   {
+    name = "omni-tts-discord";
+    url = "https://github.com/akazdayo/omni-tts-discord";
+    stars = 3;
+    language = "TypeScript";
+    pushedAt = "2026-04-17T19:26:03Z";
+    topics = [ ];
+    archived = false;
+    fork = false;
+  }
+  {
     name = "code-museum-server";
     url = "https://github.com/akazdayo/code-museum-server";
     stars = 2;
@@ -44,7 +54,7 @@
     url = "https://github.com/akazdayo/nix-configs";
     stars = 2;
     language = "Nix";
-    pushedAt = "2026-04-15T07:08:53Z";
+    pushedAt = "2026-04-17T07:05:21Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -454,7 +464,7 @@
     url = "https://github.com/akazdayo/aikyo-yukkuri";
     stars = 0;
     language = "TypeScript";
-    pushedAt = "2026-04-16T01:30:05Z";
+    pushedAt = "2026-04-17T05:57:35Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1054,7 +1064,7 @@
     url = "https://github.com/akazdayo/nostter";
     stars = 0;
     language = "Svelte";
-    pushedAt = "2026-04-10T03:27:21Z";
+    pushedAt = "2026-04-17T09:02:27Z";
     topics = [ ];
     archived = false;
     fork = true;
