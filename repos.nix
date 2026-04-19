@@ -20,21 +20,21 @@
     fork = false;
   }
   {
-    name = "YUKKURIKANIKATOOL";
-    url = "https://github.com/akazdayo/YUKKURIKANIKATOOL";
-    stars = 3;
-    language = "Python";
-    pushedAt = "2026-03-26T03:13:13Z";
+    name = "omni-tts-discord";
+    url = "https://github.com/akazdayo/omni-tts-discord";
+    stars = 6;
+    language = "TypeScript";
+    pushedAt = "2026-04-18T15:26:48Z";
     topics = [ ];
     archived = false;
     fork = false;
   }
   {
-    name = "omni-tts-discord";
-    url = "https://github.com/akazdayo/omni-tts-discord";
+    name = "YUKKURIKANIKATOOL";
+    url = "https://github.com/akazdayo/YUKKURIKANIKATOOL";
     stars = 3;
-    language = "TypeScript";
-    pushedAt = "2026-04-17T19:26:03Z";
+    language = "Python";
+    pushedAt = "2026-03-26T03:13:13Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -904,7 +904,7 @@
     url = "https://github.com/akazdayo/minecraft-proxy";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-04-16T05:29:10Z";
+    pushedAt = "2026-04-19T05:19:49Z";
     topics = [ ];
     archived = false;
     fork = false;

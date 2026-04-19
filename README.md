@@ -9,8 +9,8 @@
 
 - [pixelart](https://github.com/akazdayo/pixelart), 36 stars, primary language: Python, pushed 2026-04-16T05:21:00Z, topics: converter, pixelart
 - [AutoYukkuri](https://github.com/akazdayo/AutoYukkuri), 13 stars, primary language: Python, pushed 2024-07-26T05:35:12Z, topics: none listed
+- [omni-tts-discord](https://github.com/akazdayo/omni-tts-discord), 6 stars, primary language: TypeScript, pushed 2026-04-18T15:26:48Z, topics: none listed
 - [YUKKURIKANIKATOOL](https://github.com/akazdayo/YUKKURIKANIKATOOL), 3 stars, primary language: Python, pushed 2026-03-26T03:13:13Z, topics: none listed
-- [omni-tts-discord](https://github.com/akazdayo/omni-tts-discord), 3 stars, primary language: TypeScript, pushed 2026-04-17T19:26:03Z, topics: none listed
 - [code-museum-server](https://github.com/akazdayo/code-museum-server), 2 stars, primary language: TypeScript, pushed 2025-03-05T06:34:16Z, topics: none listed
 
 ## Language Trends
@@ -30,11 +30,11 @@
 
 ## Recent Active Projects
 
-- [omni-tts-discord](https://github.com/akazdayo/omni-tts-discord), 3 stars, primary language: TypeScript, pushed 2026-04-17T19:26:03Z, topics: none listed
+- [minecraft-proxy](https://github.com/akazdayo/minecraft-proxy), 0 stars, primary language: Nix, pushed 2026-04-19T05:19:49Z, topics: none listed
+- [omni-tts-discord](https://github.com/akazdayo/omni-tts-discord), 6 stars, primary language: TypeScript, pushed 2026-04-18T15:26:48Z, topics: none listed
 - [nix-configs](https://github.com/akazdayo/nix-configs), 2 stars, primary language: Nix, pushed 2026-04-17T07:05:21Z, topics: none listed
 - [aikyo-yukkuri](https://github.com/akazdayo/aikyo-yukkuri), 0 stars, primary language: TypeScript, pushed 2026-04-17T05:57:35Z, topics: none listed
 - [chrome-whisper](https://github.com/akazdayo/chrome-whisper), 0 stars, primary language: TypeScript, pushed 2026-04-17T03:50:52Z, topics: none listed
-- [aikyo-aituberkit-bridge](https://github.com/akazdayo/aikyo-aituberkit-bridge), 0 stars, primary language: TypeScript, pushed 2026-04-17T01:06:53Z, topics: none listed
 
 ## Links
 
