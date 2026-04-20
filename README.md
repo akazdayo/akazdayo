@@ -30,7 +30,7 @@
 
 ## Recent Active Projects
 
-- [minecraft-proxy](https://github.com/akazdayo/minecraft-proxy), 0 stars, primary language: Nix, pushed 2026-04-19T05:19:49Z, topics: none listed
+- [minecraft-proxy](https://github.com/akazdayo/minecraft-proxy), 0 stars, primary language: Nix, pushed 2026-04-20T05:31:36Z, topics: none listed
 - [omni-tts-discord](https://github.com/akazdayo/omni-tts-discord), 6 stars, primary language: TypeScript, pushed 2026-04-18T15:26:48Z, topics: none listed
 - [nix-configs](https://github.com/akazdayo/nix-configs), 2 stars, primary language: Nix, pushed 2026-04-17T07:05:21Z, topics: none listed
 - [aikyo-yukkuri](https://github.com/akazdayo/aikyo-yukkuri), 0 stars, primary language: TypeScript, pushed 2026-04-17T05:57:35Z, topics: none listed
