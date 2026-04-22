@@ -494,7 +494,7 @@
     url = "https://github.com/akazdayo/akazdayo";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-04-22T06:41:53Z";
+    pushedAt = "2026-04-22T10:28:56Z";
     topics = [ "config" "github-config" ];
     archived = false;
     fork = false;
