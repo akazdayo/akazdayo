@@ -30,9 +30,9 @@
       {
         kind = "badge";
         label = "X";
-        alt = "https://twitter.com/akazdayo";
-        image = "https://img.shields.io/twitter/follow/akazdayo?style=social";
-        href = "https://twitter.com/akazdayo";
+        alt = "https://twitter.com/akazdango";
+        image = "https://img.shields.io/twitter/follow/akazdango?style=social";
+        href = "https://twitter.com/akazdango";
         suffix = "  ";
       }
       {
@@ -53,7 +53,7 @@
     links = [
       {
         label = "X";
-        href = "https://twitter.com/akazdayo";
+        href = "https://twitter.com/akazdango";
       }
       {
         label = "E-Mail";
