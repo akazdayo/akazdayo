@@ -30,11 +30,11 @@
 
 ## Recent Active Projects
 
-- [tor-middle-relay.nix](https://github.com/akazdayo/tor-middle-relay.nix), 0 stars, primary language: Nix, pushed 2026-04-21T05:28:25Z, topics: none listed
-- [openclaw-do-nix](https://github.com/akazdayo/openclaw-do-nix), 0 stars, primary language: Nix, pushed 2026-04-21T05:28:21Z, topics: none listed
-- [neko-do](https://github.com/akazdayo/neko-do), 1 star, primary language: Nix, pushed 2026-04-21T05:22:22Z, topics: none listed
-- [minecraft-proxy](https://github.com/akazdayo/minecraft-proxy), 0 stars, primary language: Nix, pushed 2026-04-21T05:20:59Z, topics: none listed
-- [omni-tts-discord](https://github.com/akazdayo/omni-tts-discord), 6 stars, primary language: TypeScript, pushed 2026-04-18T15:26:48Z, topics: none listed
+- [openclaw-do-nix](https://github.com/akazdayo/openclaw-do-nix), 0 stars, primary language: Nix, pushed 2026-04-22T05:26:26Z, topics: none listed
+- [minecraft-proxy](https://github.com/akazdayo/minecraft-proxy), 0 stars, primary language: Nix, pushed 2026-04-22T05:18:59Z, topics: none listed
+- [my-portfolio](https://github.com/akazdayo/my-portfolio), 0 stars, primary language: TypeScript, pushed 2026-04-21T22:14:46Z, topics: none listed
+- [quiz-app](https://github.com/akazdayo/quiz-app), 0 stars, primary language: TypeScript, pushed 2026-04-21T22:01:58Z, topics: none listed
+- [url-abstract](https://github.com/akazdayo/url-abstract), 0 stars, primary language: Nix, pushed 2026-04-21T22:01:45Z, topics: none listed
 
 ## Links
 
