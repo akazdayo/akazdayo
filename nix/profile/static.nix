@@ -11,6 +11,21 @@
       text = "Hi I'm akaz.";
     };
 
+    badges = [
+      {
+        kind = "image";
+        label = "views";
+        alt = "views";
+        image = "https://komarev.com/ghpvc/?username=akazdayo&color=lightgray";
+      }
+      {
+        kind = "image";
+        label = "star";
+        alt = "star";
+        image = "https://img.shields.io/github/stars/akazdayo?style=social";
+      }
+    ];
+
     links = [
       {
         kind = "badge";
@@ -18,6 +33,7 @@
         alt = "https://twitter.com/akazdayo";
         image = "https://img.shields.io/twitter/follow/akazdayo?style=social";
         href = "https://twitter.com/akazdayo";
+        suffix = "  ";
       }
       {
         kind = "badge";

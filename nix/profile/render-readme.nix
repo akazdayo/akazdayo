@@ -2,45 +2,22 @@
   aggregate ? import ./aggregate.nix { },
 }:
 let
-  normalizeUrl =
-    url:
-    if builtins.isString url && builtins.match "^http://.*" url != null then
-      builtins.replaceStrings [ "http://" ] [ "https://" ] url
-    else
-      url;
-
   joinLines = lines: builtins.concatStringsSep "\n" lines;
 
-  take =
-    n: list:
-    let
-      len = builtins.length list;
-      count = if n < len then n else len;
-    in
-    builtins.genList (i: builtins.elemAt list i) count;
-
-  section =
-    heading: body:
-    joinLines [
-      "## ${heading}"
-      ""
-      body
-    ];
-
-  pluralize =
-    count: singular: plural:
-    if count == 1 then singular else plural;
-
-  renderLink = label: href: "[${label}](${normalizeUrl href})";
+  suffixOrEmpty = attrs: if attrs ? suffix then attrs.suffix else "";
 
   renderHeroLink =
     link:
     if link.kind == "badge" then
-      "[![${link.alt}](${normalizeUrl link.image})](${normalizeUrl link.href})"
+      "[![${link.alt}](${link.image})](${link.href})${suffixOrEmpty link}"
+    else if link.kind == "image" then
+      "![${link.alt}](${link.image})${suffixOrEmpty link}"
     else
-      renderLink link.label link.href;
+      "[${link.label}](${link.href})${suffixOrEmpty link}";
 
-  renderCard = card: "![${card.label}](${normalizeUrl card.image})";
+  renderContactLink = link: "* [${link.label}](${link.href})";
+
+  renderCard = card: "![${card.label}](${card.image})";
 
   renderDetails =
     detail:
@@ -53,22 +30,7 @@ let
       ++ [ "</details>" ]
     );
 
-  renderTopics =
-    topics: if topics == [ ] then "none listed" else builtins.concatStringsSep ", " topics;
-
-  renderLanguage = language: if language == null then "`null`" else language;
-
-  renderRepoLine =
-    repo:
-    "- ${renderLink repo.name repo.url}, ${builtins.toString repo.stars} ${
-      pluralize repo.stars "star" "stars"
-    }, primary language: ${renderLanguage repo.language}, pushed ${repo.pushedAt}, topics: ${renderTopics repo.topics}";
-
-  renderCountLine =
-    label: count:
-    "- ${label}: ${builtins.toString count.count} ${pluralize count.count "repo" "repos"}";
-
-  readmeSections = aggregate.readme.sections;
+  heroBadges = if aggregate.hero ? badges then aggregate.hero.badges else [ ];
 
   titleBlock = joinLines (
     [
@@ -76,98 +38,29 @@ let
       "![${aggregate.hero.image.alt}](${aggregate.hero.image.src})"
       "# ${aggregate.hero.heading.emoji} ${aggregate.hero.heading.text}"
     ]
+    ++ map renderHeroLink heroBadges
     ++ map renderHeroLink aggregate.hero.links
-    ++ [ ]
-    ++ map (id: "[^${id}]") aggregate.hero.footnoteRefs
   );
 
-  featuredRepositories = section readmeSections.featuredRepositories.heading (
-    if aggregate.featuredRepos == [ ] then
-      readmeSections.featuredRepositories.empty
-    else
-      joinLines (map renderRepoLine (take 5 aggregate.featuredRepos))
+  contactBlock = joinLines (
+    [
+      "# ${aggregate.contact.heading}"
+    ]
+    ++ map renderContactLink aggregate.contact.links
   );
 
-  languageTrends = section readmeSections.languageTrends.heading (
-    if aggregate.languageCounts == [ ] then
-      readmeSections.languageTrends.empty
-    else
-      joinLines (
-        map (entry: renderCountLine (renderLanguage entry.language) entry) (take 5 aggregate.languageCounts)
-      )
+  statsBlock = joinLines (
+    [
+      "# ${aggregate.stats.heading}"
+    ]
+    ++ map renderCard aggregate.stats.cards
+    ++ map renderDetails aggregate.details
   );
-
-  topicTrends = section readmeSections.topicTrends.heading (
-    if aggregate.topTopics == [ ] then
-      readmeSections.topicTrends.empty
-    else
-      joinLines (map (entry: renderCountLine entry.topic entry) aggregate.topTopics)
-  );
-
-  recentActiveProjects = section readmeSections.recentActiveProjects.heading (
-    if aggregate.recentlyUpdated == [ ] then
-      readmeSections.recentActiveProjects.empty
-    else
-      joinLines (map renderRepoLine (take 5 aggregate.recentlyUpdated))
-  );
-
-  links = section readmeSections.links.heading (
-    joinLines (
-      [
-        "- ${readmeSections.links.heroLabel}: ${
-          builtins.concatStringsSep ", " (map (link: renderLink link.label link.href) aggregate.links.hero)
-        }"
-      ]
-      ++ [
-        "- ${readmeSections.links.contactLabel}: ${
-          builtins.concatStringsSep ", " (map (link: renderLink link.label link.href) aggregate.links.contact)
-        }"
-      ]
-      ++ (
-        if aggregate.links.repository == null then
-          [ ]
-        else
-          [
-            "- ${readmeSections.links.repositoryLabel}: ${renderLink aggregate.links.repository.label aggregate.links.repository.href}"
-          ]
-      )
-      ++ (
-        if aggregate.links.footnote == null then
-          [ ]
-        else
-          [
-            "- ${readmeSections.links.footnoteLabel}: ${renderLink aggregate.links.footnote.label aggregate.links.footnote.href}"
-          ]
-      )
-    )
-  );
-
-  renderedSections = {
-    featuredRepositories = featuredRepositories;
-    languageTrends = languageTrends;
-    topicTrends = topicTrends;
-    recentActiveProjects = recentActiveProjects;
-    links = links;
-  };
-
-  orderedSections = map (name: renderedSections.${name}) aggregate.readme.sectionOrder;
-
-  footnote =
-    if aggregate ? footnote then
-      "[^${aggregate.footnote.id}]: ${aggregate.footnote.text}${renderLink aggregate.footnote.link.label aggregate.footnote.link.href}${aggregate.footnote.suffix}"
-    else
-      "";
 in
-joinLines (
-  [
-    titleBlock
-    ""
-  ]
-  ++ builtins.concatLists (
-    map (content: [
-      content
-      ""
-    ]) orderedSections
-  )
-  ++ [ footnote ]
-)
+joinLines [
+  titleBlock
+  ""
+  contactBlock
+  ""
+  statsBlock
+] + "\n"
