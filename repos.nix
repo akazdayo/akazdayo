@@ -24,7 +24,7 @@
     url = "https://github.com/akazdayo/omni-tts-discord";
     stars = 6;
     language = "TypeScript";
-    pushedAt = "2026-04-18T15:26:48Z";
+    pushedAt = "2026-04-23T04:12:34Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -54,7 +54,7 @@
     url = "https://github.com/akazdayo/nix-configs";
     stars = 2;
     language = "Nix";
-    pushedAt = "2026-04-17T07:05:21Z";
+    pushedAt = "2026-04-22T14:39:39Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -124,7 +124,7 @@
     url = "https://github.com/akazdayo/lastfm-rpc-rs";
     stars = 1;
     language = "Rust";
-    pushedAt = "2024-12-18T19:06:28Z";
+    pushedAt = "2026-04-23T00:12:29Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -184,7 +184,7 @@
     url = "https://github.com/akazdayo/pixelart-modules";
     stars = 1;
     language = "Rust";
-    pushedAt = "2025-03-31T04:19:22Z";
+    pushedAt = "2026-04-23T01:21:10Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -314,7 +314,7 @@
     url = "https://github.com/akazdayo/MathGame-Rust";
     stars = 0;
     language = "Rust";
-    pushedAt = "2026-04-14T02:58:05Z";
+    pushedAt = "2026-04-23T00:32:54Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -474,7 +474,7 @@
     url = "https://github.com/akazdayo/aituber-kit";
     stars = 0;
     language = null;
-    pushedAt = "2026-04-21T21:10:31Z";
+    pushedAt = "2026-04-22T20:43:33Z";
     topics = [ ];
     archived = false;
     fork = true;
@@ -554,7 +554,7 @@
     url = "https://github.com/akazdayo/centerized-aikyo";
     stars = 0;
     language = "Rust";
-    pushedAt = "2026-03-25T20:26:06Z";
+    pushedAt = "2026-04-23T00:55:36Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -804,7 +804,7 @@
     url = "https://github.com/akazdayo/lastfm-rpc";
     stars = 0;
     language = "Rust";
-    pushedAt = "2024-12-07T11:32:16Z";
+    pushedAt = "2026-04-23T00:38:18Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -900,11 +900,21 @@
     fork = false;
   }
   {
+    name = "minecraft-nix";
+    url = "https://github.com/akazdayo/minecraft-nix";
+    stars = 0;
+    language = "Nix";
+    pushedAt = "2026-04-22T14:39:18Z";
+    topics = [ ];
+    archived = false;
+    fork = false;
+  }
+  {
     name = "minecraft-proxy";
     url = "https://github.com/akazdayo/minecraft-proxy";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-04-22T05:18:59Z";
+    pushedAt = "2026-04-23T05:23:30Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1164,7 +1174,7 @@
     url = "https://github.com/akazdayo/pixelart-realtime-tauri";
     stars = 0;
     language = "TypeScript";
-    pushedAt = "2025-04-26T22:49:51Z";
+    pushedAt = "2026-04-23T00:28:56Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1264,7 +1274,7 @@
     url = "https://github.com/akazdayo/soundboardbot";
     stars = 0;
     language = "Rust";
-    pushedAt = "2025-12-21T09:37:08Z";
+    pushedAt = "2026-04-22T22:09:04Z";
     topics = [ ];
     archived = false;
     fork = false;
