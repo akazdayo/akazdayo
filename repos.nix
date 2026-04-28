@@ -40,6 +40,16 @@
     fork = false;
   }
   {
+    name = "stole-your-voice";
+    url = "https://github.com/akazdayo/stole-your-voice";
+    stars = 3;
+    language = "TypeScript";
+    pushedAt = "2026-04-15T19:20:25Z";
+    topics = [ ];
+    archived = false;
+    fork = false;
+  }
+  {
     name = "code-museum-server";
     url = "https://github.com/akazdayo/code-museum-server";
     stars = 2;
@@ -54,17 +64,7 @@
     url = "https://github.com/akazdayo/nix-configs";
     stars = 2;
     language = "Nix";
-    pushedAt = "2026-04-25T07:40:02Z";
-    topics = [ ];
-    archived = false;
-    fork = false;
-  }
-  {
-    name = "stole-your-voice";
-    url = "https://github.com/akazdayo/stole-your-voice";
-    stars = 2;
-    language = "TypeScript";
-    pushedAt = "2026-04-15T19:20:25Z";
+    pushedAt = "2026-04-27T13:48:48Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -484,7 +484,7 @@
     url = "https://github.com/akazdayo/aituber-kit";
     stars = 0;
     language = null;
-    pushedAt = "2026-04-22T20:43:33Z";
+    pushedAt = "2026-04-27T21:49:15Z";
     topics = [ ];
     archived = false;
     fork = true;
@@ -914,7 +914,7 @@
     url = "https://github.com/akazdayo/minecraft-proxy";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-04-25T05:10:49Z";
+    pushedAt = "2026-04-28T05:49:29Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1104,7 +1104,7 @@
     url = "https://github.com/akazdayo/openclaw-do-nix";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-04-25T05:12:18Z";
+    pushedAt = "2026-04-28T06:00:14Z";
     topics = [ ];
     archived = false;
     fork = false;
