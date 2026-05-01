@@ -924,7 +924,7 @@
     url = "https://github.com/akazdayo/minecraft-proxy";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-04-30T05:49:12Z";
+    pushedAt = "2026-05-01T05:58:57Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1025,6 +1025,16 @@
     stars = 0;
     language = null;
     pushedAt = "2025-07-08T06:20:44Z";
+    topics = [ ];
+    archived = false;
+    fork = false;
+  }
+  {
+    name = "nostr-meet-webauthn";
+    url = "https://github.com/akazdayo/nostr-meet-webauthn";
+    stars = 0;
+    language = "TypeScript";
+    pushedAt = "2026-05-01T05:45:51Z";
     topics = [ ];
     archived = false;
     fork = false;
