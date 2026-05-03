@@ -424,7 +424,7 @@
     url = "https://github.com/akazdayo/aikyo-aituberkit-bridge";
     stars = 0;
     language = "TypeScript";
-    pushedAt = "2026-04-21T20:54:04Z";
+    pushedAt = "2026-05-02T06:09:50Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -484,7 +484,7 @@
     url = "https://github.com/akazdayo/aituber-kit";
     stars = 0;
     language = null;
-    pushedAt = "2026-04-27T21:49:15Z";
+    pushedAt = "2026-05-02T06:06:19Z";
     topics = [ ];
     archived = false;
     fork = true;
@@ -1154,7 +1154,7 @@
     url = "https://github.com/akazdayo/physiquest_animation_generator";
     stars = 0;
     language = null;
-    pushedAt = "2026-04-12T13:08:11Z";
+    pushedAt = "2026-05-03T04:00:10Z";
     topics = [ ];
     archived = false;
     fork = true;
