@@ -70,6 +70,16 @@
     fork = false;
   }
   {
+    name = "obsidian-nostr-sync";
+    url = "https://github.com/akazdayo/obsidian-nostr-sync";
+    stars = 2;
+    language = "TypeScript";
+    pushedAt = "2025-10-30T08:02:28Z";
+    topics = [ ];
+    archived = false;
+    fork = false;
+  }
+  {
     name = "vrchat-web-rtsp";
     url = "https://github.com/akazdayo/vrchat-web-rtsp";
     stars = 2;
@@ -175,16 +185,6 @@
     stars = 1;
     language = "TypeScript";
     pushedAt = "2025-04-21T07:15:20Z";
-    topics = [ ];
-    archived = false;
-    fork = false;
-  }
-  {
-    name = "obsidian-nostr-sync";
-    url = "https://github.com/akazdayo/obsidian-nostr-sync";
-    stars = 1;
-    language = "TypeScript";
-    pushedAt = "2025-10-30T08:02:28Z";
     topics = [ ];
     archived = false;
     fork = false;
