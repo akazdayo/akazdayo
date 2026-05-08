@@ -2,7 +2,7 @@
   {
     name = "pixelart";
     url = "https://github.com/akazdayo/pixelart";
-    stars = 36;
+    stars = 37;
     language = "Python";
     pushedAt = "2026-05-04T21:49:47Z";
     topics = [ "converter" "pixelart" ];
@@ -64,7 +64,7 @@
     url = "https://github.com/akazdayo/nix-configs";
     stars = 2;
     language = "Nix";
-    pushedAt = "2026-05-05T07:55:36Z";
+    pushedAt = "2026-05-07T12:04:13Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -424,7 +424,7 @@
     url = "https://github.com/akazdayo/aikyo-aituberkit-bridge";
     stars = 0;
     language = "TypeScript";
-    pushedAt = "2026-05-02T06:09:50Z";
+    pushedAt = "2026-05-07T23:42:56Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -484,7 +484,7 @@
     url = "https://github.com/akazdayo/aituber-kit";
     stars = 0;
     language = null;
-    pushedAt = "2026-05-02T06:06:19Z";
+    pushedAt = "2026-05-07T21:55:26Z";
     topics = [ ];
     archived = false;
     fork = true;
@@ -774,7 +774,7 @@
     url = "https://github.com/akazdayo/ipfs-sns";
     stars = 0;
     language = null;
-    pushedAt = "2026-04-16T01:20:27Z";
+    pushedAt = "2026-05-07T19:47:37Z";
     topics = [ ];
     archived = false;
     fork = true;
@@ -925,16 +925,6 @@
     stars = 0;
     language = "Nix";
     pushedAt = "2026-05-06T05:55:32Z";
-    topics = [ ];
-    archived = false;
-    fork = false;
-  }
-  {
-    name = "misstor";
-    url = "https://github.com/akazdayo/misstor";
-    stars = 0;
-    language = "TypeScript";
-    pushedAt = "2026-01-07T10:26:17Z";
     topics = [ ];
     archived = false;
     fork = false;
