@@ -170,6 +170,16 @@
     fork = false;
   }
   {
+    name = "nix-tee-build";
+    url = "https://github.com/akazdayo/nix-tee-build";
+    stars = 1;
+    language = "Rust";
+    pushedAt = "2026-05-12T12:15:49Z";
+    topics = [ ];
+    archived = false;
+    fork = false;
+  }
+  {
     name = "nostr-profile";
     url = "https://github.com/akazdayo/nostr-profile";
     stars = 1;
@@ -594,7 +604,7 @@
     url = "https://github.com/akazdayo/dekoboko";
     stars = 0;
     language = null;
-    pushedAt = "2026-05-12T00:50:22Z";
+    pushedAt = "2026-05-15T19:48:45Z";
     topics = [ ];
     archived = false;
     fork = true;
@@ -970,16 +980,6 @@
     fork = false;
   }
   {
-    name = "nix-tee-build";
-    url = "https://github.com/akazdayo/nix-tee-build";
-    stars = 0;
-    language = "Rust";
-    pushedAt = "2026-05-12T12:15:49Z";
-    topics = [ ];
-    archived = false;
-    fork = false;
-  }
-  {
     name = "nost-profile2";
     url = "https://github.com/akazdayo/nost-profile2";
     stars = 0;
@@ -1154,7 +1154,7 @@
     url = "https://github.com/akazdayo/physiquest_animation_generator";
     stars = 0;
     language = null;
-    pushedAt = "2026-05-15T00:33:35Z";
+    pushedAt = "2026-05-15T20:44:02Z";
     topics = [ ];
     archived = false;
     fork = true;
