@@ -64,7 +64,7 @@
     url = "https://github.com/akazdayo/nix-configs";
     stars = 2;
     language = "Nix";
-    pushedAt = "2026-05-17T05:42:56Z";
+    pushedAt = "2026-05-18T05:37:53Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -474,7 +474,7 @@
     url = "https://github.com/akazdayo/aikyo-template";
     stars = 0;
     language = "TypeScript";
-    pushedAt = "2025-10-20T10:15:51Z";
+    pushedAt = "2026-05-17T12:28:29Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -494,7 +494,7 @@
     url = "https://github.com/akazdayo/aituber-kit";
     stars = 0;
     language = null;
-    pushedAt = "2026-05-13T16:19:25Z";
+    pushedAt = "2026-05-17T09:45:05Z";
     topics = [ ];
     archived = false;
     fork = true;
@@ -564,7 +564,7 @@
     url = "https://github.com/akazdayo/ava";
     stars = 0;
     language = null;
-    pushedAt = "2026-05-11T19:08:32Z";
+    pushedAt = "2026-05-17T14:13:24Z";
     topics = [ ];
     archived = false;
     fork = true;
@@ -784,7 +784,7 @@
     url = "https://github.com/akazdayo/ipfs-sns";
     stars = 0;
     language = null;
-    pushedAt = "2026-05-09T01:19:33Z";
+    pushedAt = "2026-05-17T08:57:29Z";
     topics = [ ];
     archived = false;
     fork = true;
@@ -1094,7 +1094,7 @@
     url = "https://github.com/akazdayo/nostter";
     stars = 0;
     language = "Svelte";
-    pushedAt = "2026-05-14T21:52:51Z";
+    pushedAt = "2026-05-17T07:43:11Z";
     topics = [ ];
     archived = false;
     fork = true;
