@@ -64,7 +64,7 @@
     url = "https://github.com/akazdayo/nix-configs";
     stars = 2;
     language = "Nix";
-    pushedAt = "2026-05-18T05:37:53Z";
+    pushedAt = "2026-05-19T06:52:04Z";
     topics = [ ];
     archived = false;
     fork = false;
