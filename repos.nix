@@ -40,6 +40,16 @@
     fork = false;
   }
   {
+    name = "nix-configs";
+    url = "https://github.com/akazdayo/nix-configs";
+    stars = 3;
+    language = "Nix";
+    pushedAt = "2026-05-25T17:41:03Z";
+    topics = [ ];
+    archived = false;
+    fork = false;
+  }
+  {
     name = "stole-your-voice";
     url = "https://github.com/akazdayo/stole-your-voice";
     stars = 3;
@@ -65,16 +75,6 @@
     stars = 2;
     language = "Rust";
     pushedAt = "2026-05-06T19:18:07Z";
-    topics = [ ];
-    archived = false;
-    fork = false;
-  }
-  {
-    name = "nix-configs";
-    url = "https://github.com/akazdayo/nix-configs";
-    stars = 2;
-    language = "Nix";
-    pushedAt = "2026-05-25T07:53:31Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -164,7 +164,7 @@
     url = "https://github.com/akazdayo/neko-do";
     stars = 1;
     language = "Nix";
-    pushedAt = "2026-05-24T06:29:38Z";
+    pushedAt = "2026-05-26T06:40:11Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -934,7 +934,7 @@
     url = "https://github.com/akazdayo/minecraft-proxy";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-05-25T07:09:50Z";
+    pushedAt = "2026-05-26T06:38:00Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1124,7 +1124,7 @@
     url = "https://github.com/akazdayo/openclaw-do-nix";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-05-24T06:38:56Z";
+    pushedAt = "2026-05-26T06:46:43Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1364,7 +1364,7 @@
     url = "https://github.com/akazdayo/tor-middle-relay.nix";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-05-24T06:39:31Z";
+    pushedAt = "2026-05-26T06:51:08Z";
     topics = [ ];
     archived = false;
     fork = false;
