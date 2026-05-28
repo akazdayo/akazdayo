@@ -890,6 +890,16 @@
     fork = false;
   }
   {
+    name = "markdown.nix";
+    url = "https://github.com/akazdayo/markdown.nix";
+    stars = 0;
+    language = "Nix";
+    pushedAt = "2026-05-27T07:47:51Z";
+    topics = [ ];
+    archived = false;
+    fork = false;
+  }
+  {
     name = "mc-server-auto-launch";
     url = "https://github.com/akazdayo/mc-server-auto-launch";
     stars = 0;
@@ -1214,7 +1224,7 @@
     url = "https://github.com/akazdayo/post-2603";
     stars = 0;
     language = "Typst";
-    pushedAt = "2026-03-22T17:05:19Z";
+    pushedAt = "2026-05-27T08:40:01Z";
     topics = [ ];
     archived = false;
     fork = false;
