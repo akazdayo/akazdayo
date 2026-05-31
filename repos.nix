@@ -44,7 +44,7 @@
     url = "https://github.com/akazdayo/nix-configs";
     stars = 3;
     language = "Nix";
-    pushedAt = "2026-05-29T17:20:43Z";
+    pushedAt = "2026-05-30T17:42:27Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1134,7 +1134,7 @@
     url = "https://github.com/akazdayo/openclaw-do-nix";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-05-30T06:24:38Z";
+    pushedAt = "2026-05-31T07:00:10Z";
     topics = [ ];
     archived = false;
     fork = false;
