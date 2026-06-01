@@ -30,21 +30,21 @@
     fork = false;
   }
   {
-    name = "YUKKURIKANIKATOOL";
-    url = "https://github.com/akazdayo/YUKKURIKANIKATOOL";
-    stars = 3;
-    language = "Python";
-    pushedAt = "2026-05-20T01:17:23Z";
+    name = "nix-configs";
+    url = "https://github.com/akazdayo/nix-configs";
+    stars = 4;
+    language = "Nix";
+    pushedAt = "2026-06-01T08:43:57Z";
     topics = [ ];
     archived = false;
     fork = false;
   }
   {
-    name = "nix-configs";
-    url = "https://github.com/akazdayo/nix-configs";
+    name = "YUKKURIKANIKATOOL";
+    url = "https://github.com/akazdayo/YUKKURIKANIKATOOL";
     stars = 3;
-    language = "Nix";
-    pushedAt = "2026-05-30T17:42:27Z";
+    language = "Python";
+    pushedAt = "2026-05-20T01:17:23Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -944,7 +944,7 @@
     url = "https://github.com/akazdayo/minecraft-proxy";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-05-30T06:13:05Z";
+    pushedAt = "2026-06-01T08:17:21Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1134,7 +1134,7 @@
     url = "https://github.com/akazdayo/openclaw-do-nix";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-05-31T07:00:10Z";
+    pushedAt = "2026-06-01T08:35:06Z";
     topics = [ ];
     archived = false;
     fork = false;
