@@ -32,9 +32,9 @@
   {
     name = "nix-configs";
     url = "https://github.com/akazdayo/nix-configs";
-    stars = 4;
+    stars = 5;
     language = "Nix";
-    pushedAt = "2026-06-01T08:43:57Z";
+    pushedAt = "2026-06-01T19:28:15Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -164,7 +164,7 @@
     url = "https://github.com/akazdayo/neko-do";
     stars = 1;
     language = "Nix";
-    pushedAt = "2026-05-29T06:47:10Z";
+    pushedAt = "2026-06-02T07:18:35Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -564,7 +564,7 @@
     url = "https://github.com/akazdayo/ava";
     stars = 0;
     language = null;
-    pushedAt = "2026-05-29T14:17:49Z";
+    pushedAt = "2026-06-01T23:37:43Z";
     topics = [ ];
     archived = false;
     fork = true;
@@ -624,7 +624,7 @@
     url = "https://github.com/akazdayo/digitalocean-nix-tf";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-05-29T06:58:23Z";
+    pushedAt = "2026-06-02T07:29:36Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -644,7 +644,7 @@
     url = "https://github.com/akazdayo/discord-meeting-note";
     stars = 0;
     language = "TypeScript";
-    pushedAt = "2026-05-28T18:01:29Z";
+    pushedAt = "2026-06-01T19:08:25Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -664,7 +664,7 @@
     url = "https://github.com/akazdayo/easy-live-platform";
     stars = 0;
     language = null;
-    pushedAt = "2026-05-28T16:23:52Z";
+    pushedAt = "2026-06-01T19:18:36Z";
     topics = [ ];
     archived = false;
     fork = true;
@@ -944,7 +944,7 @@
     url = "https://github.com/akazdayo/minecraft-proxy";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-06-01T08:17:21Z";
+    pushedAt = "2026-06-02T07:16:49Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1134,7 +1134,7 @@
     url = "https://github.com/akazdayo/openclaw-do-nix";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-06-01T08:35:06Z";
+    pushedAt = "2026-06-02T07:25:56Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1254,7 +1254,7 @@
     url = "https://github.com/akazdayo/redirect-workers";
     stars = 0;
     language = "TypeScript";
-    pushedAt = "2026-05-14T23:53:14Z";
+    pushedAt = "2026-06-01T21:32:19Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1288,6 +1288,16 @@
     topics = [ ];
     archived = false;
     fork = false;
+  }
+  {
+    name = "simple-mcsrvstat-discord";
+    url = "https://github.com/akazdayo/simple-mcsrvstat-discord";
+    stars = 0;
+    language = null;
+    pushedAt = "2026-06-01T19:30:05Z";
+    topics = [ ];
+    archived = false;
+    fork = true;
   }
   {
     name = "smart-event";
@@ -1374,7 +1384,7 @@
     url = "https://github.com/akazdayo/tor-middle-relay.nix";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-05-29T06:56:45Z";
+    pushedAt = "2026-06-02T07:26:16Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1424,7 +1434,7 @@
     url = "https://github.com/akazdayo/web-scrobbler";
     stars = 0;
     language = "TypeScript";
-    pushedAt = "2026-05-08T22:54:01Z";
+    pushedAt = "2026-06-01T20:50:37Z";
     topics = [ ];
     archived = false;
     fork = true;
@@ -1474,7 +1484,7 @@
     url = "https://github.com/akazdayo/yamada-ui";
     stars = 0;
     language = null;
-    pushedAt = "2026-05-28T17:55:49Z";
+    pushedAt = "2026-06-01T19:59:37Z";
     topics = [ ];
     archived = false;
     fork = true;
