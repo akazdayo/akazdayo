@@ -34,7 +34,7 @@
     url = "https://github.com/akazdayo/nix-configs";
     stars = 5;
     language = "Nix";
-    pushedAt = "2026-06-01T19:28:15Z";
+    pushedAt = "2026-06-03T08:22:36Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1294,7 +1294,7 @@
     url = "https://github.com/akazdayo/simple-mcsrvstat-discord";
     stars = 0;
     language = null;
-    pushedAt = "2026-06-01T19:30:05Z";
+    pushedAt = "2026-06-02T09:40:57Z";
     topics = [ ];
     archived = false;
     fork = true;
