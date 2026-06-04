@@ -34,7 +34,7 @@
     url = "https://github.com/akazdayo/nix-configs";
     stars = 5;
     language = "Nix";
-    pushedAt = "2026-06-03T08:22:36Z";
+    pushedAt = "2026-06-03T16:38:55Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -990,6 +990,16 @@
     fork = false;
   }
   {
+    name = "nix-minecraft";
+    url = "https://github.com/akazdayo/nix-minecraft";
+    stars = 0;
+    language = "Nix";
+    pushedAt = "2026-06-03T10:40:33Z";
+    topics = [ ];
+    archived = false;
+    fork = true;
+  }
+  {
     name = "nost-profile2";
     url = "https://github.com/akazdayo/nost-profile2";
     stars = 0;
@@ -1134,7 +1144,7 @@
     url = "https://github.com/akazdayo/openclaw-do-nix";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-06-02T07:25:56Z";
+    pushedAt = "2026-06-04T07:26:08Z";
     topics = [ ];
     archived = false;
     fork = false;
