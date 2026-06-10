@@ -14,7 +14,7 @@
     url = "https://github.com/akazdayo/AutoYukkuri";
     stars = 13;
     language = "Python";
-    pushedAt = "2026-05-06T08:32:51Z";
+    pushedAt = "2026-06-10T00:03:52Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -164,7 +164,7 @@
     url = "https://github.com/akazdayo/neko-do";
     stars = 1;
     language = "Nix";
-    pushedAt = "2026-06-09T06:42:02Z";
+    pushedAt = "2026-06-10T06:59:47Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -254,7 +254,7 @@
     url = "https://github.com/akazdayo/AutoYukkuri-CPU";
     stars = 0;
     language = "Python";
-    pushedAt = "2023-11-17T10:56:59Z";
+    pushedAt = "2026-06-09T23:07:16Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -624,7 +624,7 @@
     url = "https://github.com/akazdayo/digitalocean-nix-tf";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-06-08T08:15:32Z";
+    pushedAt = "2026-06-10T07:13:15Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -944,7 +944,7 @@
     url = "https://github.com/akazdayo/minecraft-proxy";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-06-09T06:38:51Z";
+    pushedAt = "2026-06-10T06:55:40Z";
     topics = [ ];
     archived = false;
     fork = false;
