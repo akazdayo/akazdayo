@@ -14,7 +14,7 @@
     url = "https://github.com/akazdayo/AutoYukkuri";
     stars = 13;
     language = "Python";
-    pushedAt = "2026-06-10T00:03:52Z";
+    pushedAt = "2026-06-10T21:52:36Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -34,7 +34,7 @@
     url = "https://github.com/akazdayo/nix-configs";
     stars = 5;
     language = "Nix";
-    pushedAt = "2026-06-08T19:10:26Z";
+    pushedAt = "2026-06-10T16:06:51Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -254,7 +254,7 @@
     url = "https://github.com/akazdayo/AutoYukkuri-CPU";
     stars = 0;
     language = "Python";
-    pushedAt = "2026-06-09T23:07:16Z";
+    pushedAt = "2026-06-10T19:59:29Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -484,7 +484,7 @@
     url = "https://github.com/akazdayo/aikyo-yukkuri";
     stars = 0;
     language = "TypeScript";
-    pushedAt = "2026-06-04T18:16:11Z";
+    pushedAt = "2026-06-10T18:52:37Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -494,7 +494,7 @@
     url = "https://github.com/akazdayo/aituber-kit";
     stars = 0;
     language = null;
-    pushedAt = "2026-06-05T09:40:45Z";
+    pushedAt = "2026-06-10T17:24:51Z";
     topics = [ ];
     archived = false;
     fork = true;
@@ -920,11 +920,21 @@
     fork = false;
   }
   {
+    name = "meltyMusic";
+    url = "https://github.com/akazdayo/meltyMusic";
+    stars = 0;
+    language = null;
+    pushedAt = "2026-06-10T15:02:20Z";
+    topics = [ ];
+    archived = false;
+    fork = true;
+  }
+  {
     name = "metrabs";
     url = "https://github.com/akazdayo/metrabs";
     stars = 0;
     language = "Python";
-    pushedAt = "2026-05-19T22:54:39Z";
+    pushedAt = "2026-06-11T01:22:48Z";
     topics = [ ];
     archived = false;
     fork = true;
@@ -1144,7 +1154,7 @@
     url = "https://github.com/akazdayo/openclaw-do-nix";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-06-09T06:50:21Z";
+    pushedAt = "2026-06-10T07:27:58Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1394,7 +1404,7 @@
     url = "https://github.com/akazdayo/tor-middle-relay.nix";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-06-09T06:50:41Z";
+    pushedAt = "2026-06-10T07:28:38Z";
     topics = [ ];
     archived = false;
     fork = false;
