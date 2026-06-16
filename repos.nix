@@ -12,7 +12,7 @@
   {
     name = "AutoYukkuri";
     url = "https://github.com/akazdayo/AutoYukkuri";
-    stars = 13;
+    stars = 14;
     language = "Python";
     pushedAt = "2026-06-10T21:52:36Z";
     topics = [ ];
