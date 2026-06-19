@@ -34,7 +34,7 @@
     url = "https://github.com/akazdayo/nix-configs";
     stars = 5;
     language = "Nix";
-    pushedAt = "2026-06-17T19:00:57Z";
+    pushedAt = "2026-06-18T12:12:11Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -484,7 +484,7 @@
     url = "https://github.com/akazdayo/aikyo-yukkuri";
     stars = 0;
     language = "TypeScript";
-    pushedAt = "2026-06-11T13:50:21Z";
+    pushedAt = "2026-06-19T01:21:17Z";
     topics = [ ];
     archived = false;
     fork = false;
