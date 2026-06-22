@@ -22,7 +22,7 @@
   {
     name = "omni-tts-discord";
     url = "https://github.com/akazdayo/omni-tts-discord";
-    stars = 6;
+    stars = 7;
     language = "TypeScript";
     pushedAt = "2026-06-17T10:32:54Z";
     topics = [ ];
@@ -34,7 +34,7 @@
     url = "https://github.com/akazdayo/nix-configs";
     stars = 5;
     language = "Nix";
-    pushedAt = "2026-06-21T08:06:58Z";
+    pushedAt = "2026-06-22T06:44:32Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -84,7 +84,7 @@
     url = "https://github.com/akazdayo/vrchat-web-rtsp";
     stars = 2;
     language = "TypeScript";
-    pushedAt = "2026-06-21T08:07:49Z";
+    pushedAt = "2026-06-21T10:38:05Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -484,7 +484,7 @@
     url = "https://github.com/akazdayo/aikyo-yukkuri";
     stars = 0;
     language = "TypeScript";
-    pushedAt = "2026-06-20T04:15:35Z";
+    pushedAt = "2026-06-22T06:29:19Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -954,7 +954,7 @@
     url = "https://github.com/akazdayo/minecraft-proxy";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-06-17T08:26:24Z";
+    pushedAt = "2026-06-22T08:46:26Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1154,7 +1154,7 @@
     url = "https://github.com/akazdayo/openclaw-do-nix";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-06-21T08:00:19Z";
+    pushedAt = "2026-06-22T08:59:30Z";
     topics = [ ];
     archived = false;
     fork = false;
