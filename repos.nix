@@ -24,7 +24,7 @@
     url = "https://github.com/akazdayo/omni-tts-discord";
     stars = 7;
     language = "TypeScript";
-    pushedAt = "2026-06-17T10:32:54Z";
+    pushedAt = "2026-06-23T16:08:24Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -54,7 +54,7 @@
     url = "https://github.com/akazdayo/stole-your-voice";
     stars = 3;
     language = "TypeScript";
-    pushedAt = "2026-06-17T21:05:00Z";
+    pushedAt = "2026-06-23T19:25:45Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -590,6 +590,16 @@
     fork = false;
   }
   {
+    name = "co2-monitor-api";
+    url = "https://github.com/akazdayo/co2-monitor-api";
+    stars = 0;
+    language = "Python";
+    pushedAt = "2026-06-23T18:46:40Z";
+    topics = [ ];
+    archived = false;
+    fork = false;
+  }
+  {
     name = "cooking-timeline";
     url = "https://github.com/akazdayo/cooking-timeline";
     stars = 0;
@@ -954,7 +964,7 @@
     url = "https://github.com/akazdayo/minecraft-proxy";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-06-23T06:36:54Z";
+    pushedAt = "2026-06-24T06:34:20Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1084,7 +1094,7 @@
     url = "https://github.com/akazdayo/nostr-profile-embed";
     stars = 0;
     language = "TypeScript";
-    pushedAt = "2026-06-19T22:04:56Z";
+    pushedAt = "2026-06-23T12:13:23Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1154,7 +1164,7 @@
     url = "https://github.com/akazdayo/openclaw-do-nix";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-06-22T08:59:30Z";
+    pushedAt = "2026-06-24T06:46:06Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1204,7 +1214,7 @@
     url = "https://github.com/akazdayo/pixelart-astro";
     stars = 0;
     language = "Astro";
-    pushedAt = "2026-06-22T23:11:35Z";
+    pushedAt = "2026-06-23T13:42:22Z";
     topics = [ ];
     archived = false;
     fork = false;
