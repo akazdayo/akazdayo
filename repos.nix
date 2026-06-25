@@ -34,7 +34,7 @@
     url = "https://github.com/akazdayo/nix-configs";
     stars = 5;
     language = "Nix";
-    pushedAt = "2026-06-22T12:28:56Z";
+    pushedAt = "2026-06-24T10:07:33Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -964,7 +964,7 @@
     url = "https://github.com/akazdayo/minecraft-proxy";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-06-24T06:34:20Z";
+    pushedAt = "2026-06-25T06:37:59Z";
     topics = [ ];
     archived = false;
     fork = false;
