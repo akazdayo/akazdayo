@@ -974,7 +974,7 @@
     url = "https://github.com/akazdayo/minecraft-proxy";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-06-30T06:45:28Z";
+    pushedAt = "2026-07-01T07:02:40Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1174,7 +1174,7 @@
     url = "https://github.com/akazdayo/openclaw-do-nix";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-06-30T06:57:19Z";
+    pushedAt = "2026-07-01T07:11:59Z";
     topics = [ ];
     archived = false;
     fork = false;
