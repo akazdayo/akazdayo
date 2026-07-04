@@ -60,6 +60,16 @@
     fork = false;
   }
   {
+    name = "vrchat-web-rtsp";
+    url = "https://github.com/akazdayo/vrchat-web-rtsp";
+    stars = 3;
+    language = "TypeScript";
+    pushedAt = "2026-06-21T10:38:05Z";
+    topics = [ ];
+    archived = false;
+    fork = false;
+  }
+  {
     name = "code-museum-server";
     url = "https://github.com/akazdayo/code-museum-server";
     stars = 2;
@@ -75,16 +85,6 @@
     stars = 2;
     language = "Rust";
     pushedAt = "2026-05-28T17:31:58Z";
-    topics = [ ];
-    archived = false;
-    fork = false;
-  }
-  {
-    name = "vrchat-web-rtsp";
-    url = "https://github.com/akazdayo/vrchat-web-rtsp";
-    stars = 2;
-    language = "TypeScript";
-    pushedAt = "2026-06-21T10:38:05Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -164,7 +164,7 @@
     url = "https://github.com/akazdayo/neko-do";
     stars = 1;
     language = "Nix";
-    pushedAt = "2026-06-30T06:46:46Z";
+    pushedAt = "2026-07-04T06:12:34Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -644,7 +644,7 @@
     url = "https://github.com/akazdayo/digitalocean-nix-tf";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-06-30T07:00:45Z";
+    pushedAt = "2026-07-04T06:25:49Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -974,7 +974,7 @@
     url = "https://github.com/akazdayo/minecraft-proxy";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-07-03T06:21:55Z";
+    pushedAt = "2026-07-04T06:08:55Z";
     topics = [ ];
     archived = false;
     fork = false;
