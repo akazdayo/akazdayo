@@ -34,7 +34,7 @@
     url = "https://github.com/akazdayo/nix-configs";
     stars = 5;
     language = "Nix";
-    pushedAt = "2026-07-06T06:33:28Z";
+    pushedAt = "2026-07-06T09:32:49Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -590,6 +590,16 @@
     fork = false;
   }
   {
+    name = "chatlys-bot";
+    url = "https://github.com/akazdayo/chatlys-bot";
+    stars = 0;
+    language = "Python";
+    pushedAt = "2022-04-03T09:38:21Z";
+    topics = [ ];
+    archived = false;
+    fork = false;
+  }
+  {
     name = "chrome-whisper";
     url = "https://github.com/akazdayo/chrome-whisper";
     stars = 0;
@@ -974,7 +984,7 @@
     url = "https://github.com/akazdayo/minecraft-proxy";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-07-06T07:07:55Z";
+    pushedAt = "2026-07-07T06:34:02Z";
     topics = [ ];
     archived = false;
     fork = false;
