@@ -984,7 +984,7 @@
     url = "https://github.com/akazdayo/minecraft-proxy";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-07-07T06:34:02Z";
+    pushedAt = "2026-07-08T05:40:29Z";
     topics = [ ];
     archived = false;
     fork = false;
