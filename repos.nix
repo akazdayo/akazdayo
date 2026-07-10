@@ -90,6 +90,16 @@
     fork = false;
   }
   {
+    name = "reproductive-nix-cache";
+    url = "https://github.com/akazdayo/reproductive-nix-cache";
+    stars = 2;
+    language = "Rust";
+    pushedAt = "2026-07-08T17:34:40Z";
+    topics = [ ];
+    archived = false;
+    fork = false;
+  }
+  {
     name = "addition-bot";
     url = "https://github.com/akazdayo/addition-bot";
     stars = 1;
@@ -205,16 +215,6 @@
     stars = 1;
     language = "Rust";
     pushedAt = "2026-04-23T01:21:10Z";
-    topics = [ ];
-    archived = false;
-    fork = false;
-  }
-  {
-    name = "reproductive-nix-cache";
-    url = "https://github.com/akazdayo/reproductive-nix-cache";
-    stars = 1;
-    language = "Rust";
-    pushedAt = "2026-07-08T17:34:40Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -994,7 +994,7 @@
     url = "https://github.com/akazdayo/minecraft-proxy";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-07-09T06:38:48Z";
+    pushedAt = "2026-07-10T06:31:09Z";
     topics = [ ];
     archived = false;
     fork = false;
