@@ -94,7 +94,7 @@
     url = "https://github.com/akazdayo/reproductive-nix-cache";
     stars = 2;
     language = "Rust";
-    pushedAt = "2026-07-10T09:46:03Z";
+    pushedAt = "2026-07-11T17:55:55Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -174,7 +174,7 @@
     url = "https://github.com/akazdayo/neko-do";
     stars = 1;
     language = "Nix";
-    pushedAt = "2026-07-11T05:34:55Z";
+    pushedAt = "2026-07-12T05:49:40Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -480,6 +480,16 @@
     fork = false;
   }
   {
+    name = "aikyo-draft";
+    url = "https://github.com/akazdayo/aikyo-draft";
+    stars = 0;
+    language = "TypeScript";
+    pushedAt = "2026-07-11T10:25:52Z";
+    topics = [ ];
+    archived = false;
+    fork = false;
+  }
+  {
     name = "aikyo-template";
     url = "https://github.com/akazdayo/aikyo-template";
     stars = 0;
@@ -664,7 +674,7 @@
     url = "https://github.com/akazdayo/digitalocean-nix-tf";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-07-11T05:46:44Z";
+    pushedAt = "2026-07-12T06:09:33Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -994,7 +1004,7 @@
     url = "https://github.com/akazdayo/minecraft-proxy";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-07-11T05:34:34Z";
+    pushedAt = "2026-07-12T05:49:27Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1194,7 +1204,7 @@
     url = "https://github.com/akazdayo/openclaw-do-nix";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-07-11T05:40:11Z";
+    pushedAt = "2026-07-12T05:57:22Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1444,7 +1454,7 @@
     url = "https://github.com/akazdayo/tor-middle-relay.nix";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-07-11T05:40:25Z";
+    pushedAt = "2026-07-12T05:58:34Z";
     topics = [ ];
     archived = false;
     fork = false;
