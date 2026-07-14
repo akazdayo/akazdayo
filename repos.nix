@@ -34,7 +34,7 @@
     url = "https://github.com/akazdayo/nix-configs";
     stars = 5;
     language = "Nix";
-    pushedAt = "2026-07-12T09:38:12Z";
+    pushedAt = "2026-07-13T08:17:45Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1004,7 +1004,7 @@
     url = "https://github.com/akazdayo/minecraft-proxy";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-07-13T06:03:28Z";
+    pushedAt = "2026-07-14T05:19:25Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1303,8 +1303,8 @@
     name = "presentations";
     url = "https://github.com/akazdayo/presentations";
     stars = 0;
-    language = null;
-    pushedAt = "2026-07-12T17:51:32Z";
+    language = "Typst";
+    pushedAt = "2026-07-13T13:46:08Z";
     topics = [ ];
     archived = false;
     fork = false;
