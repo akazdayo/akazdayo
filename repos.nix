@@ -54,7 +54,7 @@
     url = "https://github.com/akazdayo/stole-your-voice";
     stars = 3;
     language = "TypeScript";
-    pushedAt = "2026-07-02T03:55:16Z";
+    pushedAt = "2026-07-15T18:20:06Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -105,6 +105,16 @@
     stars = 1;
     language = "Python";
     pushedAt = "2023-07-04T08:25:41Z";
+    topics = [ ];
+    archived = false;
+    fork = false;
+  }
+  {
+    name = "aikyo-draft";
+    url = "https://github.com/akazdayo/aikyo-draft";
+    stars = 1;
+    language = "TypeScript";
+    pushedAt = "2026-07-11T10:25:52Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -480,16 +490,6 @@
     fork = false;
   }
   {
-    name = "aikyo-draft";
-    url = "https://github.com/akazdayo/aikyo-draft";
-    stars = 0;
-    language = "TypeScript";
-    pushedAt = "2026-07-11T10:25:52Z";
-    topics = [ ];
-    archived = false;
-    fork = false;
-  }
-  {
     name = "aikyo-template";
     url = "https://github.com/akazdayo/aikyo-template";
     stars = 0;
@@ -800,6 +800,16 @@
     fork = false;
   }
   {
+    name = "homepage";
+    url = "https://github.com/akazdayo/homepage";
+    stars = 0;
+    language = "Astro";
+    pushedAt = "2026-07-15T19:19:04Z";
+    topics = [ ];
+    archived = false;
+    fork = false;
+  }
+  {
     name = "hotkey-audio";
     url = "https://github.com/akazdayo/hotkey-audio";
     stars = 0;
@@ -1004,7 +1014,7 @@
     url = "https://github.com/akazdayo/minecraft-proxy";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-07-15T05:26:06Z";
+    pushedAt = "2026-07-16T05:32:07Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1304,7 +1314,7 @@
     url = "https://github.com/akazdayo/presentations";
     stars = 0;
     language = "Typst";
-    pushedAt = "2026-07-13T13:46:08Z";
+    pushedAt = "2026-07-15T18:32:18Z";
     topics = [ ];
     archived = false;
     fork = false;
