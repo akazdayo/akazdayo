@@ -34,7 +34,7 @@
     url = "https://github.com/akazdayo/nix-configs";
     stars = 5;
     language = "Nix";
-    pushedAt = "2026-07-13T08:17:45Z";
+    pushedAt = "2026-07-16T17:10:47Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -184,7 +184,7 @@
     url = "https://github.com/akazdayo/neko-do";
     stars = 1;
     language = "Nix";
-    pushedAt = "2026-07-15T05:24:47Z";
+    pushedAt = "2026-07-17T05:35:17Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -205,6 +205,16 @@
     stars = 1;
     language = "TypeScript";
     pushedAt = "2025-04-21T07:15:20Z";
+    topics = [ ];
+    archived = false;
+    fork = false;
+  }
+  {
+    name = "nostratui";
+    url = "https://github.com/akazdayo/nostratui";
+    stars = 1;
+    language = "Rust";
+    pushedAt = "2026-07-17T05:39:21Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -674,7 +684,7 @@
     url = "https://github.com/akazdayo/digitalocean-nix-tf";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-07-15T05:37:15Z";
+    pushedAt = "2026-07-17T05:47:45Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -804,7 +814,7 @@
     url = "https://github.com/akazdayo/homepage";
     stars = 0;
     language = "Astro";
-    pushedAt = "2026-07-15T19:19:04Z";
+    pushedAt = "2026-07-16T18:16:09Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1014,7 +1024,7 @@
     url = "https://github.com/akazdayo/minecraft-proxy";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-07-16T05:32:07Z";
+    pushedAt = "2026-07-17T05:47:21Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1214,7 +1224,7 @@
     url = "https://github.com/akazdayo/openclaw-do-nix";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-07-15T05:37:52Z";
+    pushedAt = "2026-07-17T05:41:51Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1314,7 +1324,7 @@
     url = "https://github.com/akazdayo/presentations";
     stars = 0;
     language = "Typst";
-    pushedAt = "2026-07-15T18:32:18Z";
+    pushedAt = "2026-07-17T02:47:57Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1474,7 +1484,7 @@
     url = "https://github.com/akazdayo/tor-middle-relay.nix";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-07-15T05:30:40Z";
+    pushedAt = "2026-07-17T05:42:26Z";
     topics = [ ];
     archived = false;
     fork = false;
