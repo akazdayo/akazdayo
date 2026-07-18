@@ -14,7 +14,7 @@
     url = "https://github.com/akazdayo/AutoYukkuri";
     stars = 14;
     language = "Python";
-    pushedAt = "2026-06-10T21:52:36Z";
+    pushedAt = "2026-07-17T20:52:45Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -24,7 +24,7 @@
     url = "https://github.com/akazdayo/omni-tts-discord";
     stars = 7;
     language = "TypeScript";
-    pushedAt = "2026-07-14T22:25:02Z";
+    pushedAt = "2026-07-17T20:01:57Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -50,11 +50,21 @@
     fork = false;
   }
   {
+    name = "nostratui";
+    url = "https://github.com/akazdayo/nostratui";
+    stars = 3;
+    language = "Rust";
+    pushedAt = "2026-07-17T12:02:27Z";
+    topics = [ ];
+    archived = false;
+    fork = false;
+  }
+  {
     name = "stole-your-voice";
     url = "https://github.com/akazdayo/stole-your-voice";
     stars = 3;
     language = "TypeScript";
-    pushedAt = "2026-07-15T18:20:06Z";
+    pushedAt = "2026-07-17T20:01:38Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -210,16 +220,6 @@
     fork = false;
   }
   {
-    name = "nostratui";
-    url = "https://github.com/akazdayo/nostratui";
-    stars = 1;
-    language = "Rust";
-    pushedAt = "2026-07-17T05:39:21Z";
-    topics = [ ];
-    archived = false;
-    fork = false;
-  }
-  {
     name = "obsidian-nostr-sync";
     url = "https://github.com/akazdayo/obsidian-nostr-sync";
     stars = 1;
@@ -284,7 +284,7 @@
     url = "https://github.com/akazdayo/AutoYukkuri-CPU";
     stars = 0;
     language = "Python";
-    pushedAt = "2026-06-10T19:59:29Z";
+    pushedAt = "2026-07-17T19:21:06Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -814,7 +814,7 @@
     url = "https://github.com/akazdayo/homepage";
     stars = 0;
     language = "Astro";
-    pushedAt = "2026-07-16T18:16:09Z";
+    pushedAt = "2026-07-17T14:42:20Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1024,7 +1024,7 @@
     url = "https://github.com/akazdayo/minecraft-proxy";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-07-17T05:47:21Z";
+    pushedAt = "2026-07-18T05:15:56Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1324,7 +1324,7 @@
     url = "https://github.com/akazdayo/presentations";
     stars = 0;
     language = "Typst";
-    pushedAt = "2026-07-17T02:47:57Z";
+    pushedAt = "2026-07-17T13:57:09Z";
     topics = [ ];
     archived = false;
     fork = false;
