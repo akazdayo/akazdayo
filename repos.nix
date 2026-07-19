@@ -40,21 +40,21 @@
     fork = false;
   }
   {
-    name = "YUKKURIKANIKATOOL";
-    url = "https://github.com/akazdayo/YUKKURIKANIKATOOL";
-    stars = 3;
-    language = "Python";
-    pushedAt = "2026-05-20T01:17:23Z";
+    name = "nostratui";
+    url = "https://github.com/akazdayo/nostratui";
+    stars = 4;
+    language = "Rust";
+    pushedAt = "2026-07-17T12:02:27Z";
     topics = [ ];
     archived = false;
     fork = false;
   }
   {
-    name = "nostratui";
-    url = "https://github.com/akazdayo/nostratui";
+    name = "YUKKURIKANIKATOOL";
+    url = "https://github.com/akazdayo/YUKKURIKANIKATOOL";
     stars = 3;
-    language = "Rust";
-    pushedAt = "2026-07-17T12:02:27Z";
+    language = "Python";
+    pushedAt = "2026-05-20T01:17:23Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -194,7 +194,7 @@
     url = "https://github.com/akazdayo/neko-do";
     stars = 1;
     language = "Nix";
-    pushedAt = "2026-07-17T05:35:17Z";
+    pushedAt = "2026-07-19T05:44:10Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1024,7 +1024,7 @@
     url = "https://github.com/akazdayo/minecraft-proxy";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-07-18T05:15:56Z";
+    pushedAt = "2026-07-19T05:47:30Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1224,7 +1224,7 @@
     url = "https://github.com/akazdayo/openclaw-do-nix";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-07-17T05:41:51Z";
+    pushedAt = "2026-07-19T05:52:07Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1484,7 +1484,7 @@
     url = "https://github.com/akazdayo/tor-middle-relay.nix";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-07-17T05:42:26Z";
+    pushedAt = "2026-07-19T05:52:16Z";
     topics = [ ];
     archived = false;
     fork = false;
