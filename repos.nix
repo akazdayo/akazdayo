@@ -34,7 +34,7 @@
     url = "https://github.com/akazdayo/nix-configs";
     stars = 5;
     language = "Nix";
-    pushedAt = "2026-07-16T17:10:47Z";
+    pushedAt = "2026-07-19T18:07:43Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -194,7 +194,7 @@
     url = "https://github.com/akazdayo/neko-do";
     stars = 1;
     language = "Nix";
-    pushedAt = "2026-07-19T05:44:10Z";
+    pushedAt = "2026-07-20T06:01:35Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -408,6 +408,16 @@
     topics = [ ];
     archived = false;
     fork = false;
+  }
+  {
+    name = "ViTEraser";
+    url = "https://github.com/akazdayo/ViTEraser";
+    stars = 0;
+    language = "Python";
+    pushedAt = "2026-07-19T10:15:46Z";
+    topics = [ ];
+    archived = false;
+    fork = true;
   }
   {
     name = "VirtualCharacterControlProtocol";
@@ -684,7 +694,7 @@
     url = "https://github.com/akazdayo/digitalocean-nix-tf";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-07-17T05:47:45Z";
+    pushedAt = "2026-07-20T06:25:50Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1024,7 +1034,7 @@
     url = "https://github.com/akazdayo/minecraft-proxy";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-07-19T05:47:30Z";
+    pushedAt = "2026-07-20T05:58:23Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1224,7 +1234,7 @@
     url = "https://github.com/akazdayo/openclaw-do-nix";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-07-19T05:52:07Z";
+    pushedAt = "2026-07-20T06:17:03Z";
     topics = [ ];
     archived = false;
     fork = false;
