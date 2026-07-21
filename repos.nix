@@ -34,7 +34,7 @@
     url = "https://github.com/akazdayo/nix-configs";
     stars = 5;
     language = "Nix";
-    pushedAt = "2026-07-19T18:07:43Z";
+    pushedAt = "2026-07-20T18:31:47Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -194,7 +194,7 @@
     url = "https://github.com/akazdayo/neko-do";
     stars = 1;
     language = "Nix";
-    pushedAt = "2026-07-20T06:01:35Z";
+    pushedAt = "2026-07-21T05:42:40Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -235,6 +235,16 @@
     stars = 1;
     language = "Rust";
     pushedAt = "2026-04-23T01:21:10Z";
+    topics = [ ];
+    archived = false;
+    fork = false;
+  }
+  {
+    name = "wivrn-nix";
+    url = "https://github.com/akazdayo/wivrn-nix";
+    stars = 1;
+    language = "Nix";
+    pushedAt = "2026-07-20T18:10:49Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -694,7 +704,7 @@
     url = "https://github.com/akazdayo/digitalocean-nix-tf";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-07-20T06:25:50Z";
+    pushedAt = "2026-07-21T05:57:12Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1034,7 +1044,17 @@
     url = "https://github.com/akazdayo/minecraft-proxy";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-07-20T05:58:23Z";
+    pushedAt = "2026-07-21T05:46:39Z";
+    topics = [ ];
+    archived = false;
+    fork = false;
+  }
+  {
+    name = "mistral-transcribe-web";
+    url = "https://github.com/akazdayo/mistral-transcribe-web";
+    stars = 0;
+    language = "TypeScript";
+    pushedAt = "2026-07-20T09:46:28Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1234,7 +1254,7 @@
     url = "https://github.com/akazdayo/openclaw-do-nix";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-07-20T06:17:03Z";
+    pushedAt = "2026-07-21T05:50:50Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1494,7 +1514,7 @@
     url = "https://github.com/akazdayo/tor-middle-relay.nix";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-07-19T05:52:16Z";
+    pushedAt = "2026-07-21T05:50:31Z";
     topics = [ ];
     archived = false;
     fork = false;
