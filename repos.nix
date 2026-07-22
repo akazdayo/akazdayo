@@ -4,7 +4,7 @@
     url = "https://github.com/akazdayo/pixelart";
     stars = 38;
     language = "Python";
-    pushedAt = "2026-06-17T16:40:40Z";
+    pushedAt = "2026-07-21T09:41:09Z";
     topics = [ "converter" "pixelart" ];
     archived = false;
     fork = false;
@@ -24,7 +24,7 @@
     url = "https://github.com/akazdayo/omni-tts-discord";
     stars = 7;
     language = "TypeScript";
-    pushedAt = "2026-07-17T20:01:57Z";
+    pushedAt = "2026-07-21T10:16:16Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -34,7 +34,7 @@
     url = "https://github.com/akazdayo/nix-configs";
     stars = 5;
     language = "Nix";
-    pushedAt = "2026-07-20T18:31:47Z";
+    pushedAt = "2026-07-21T16:53:57Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -64,7 +64,7 @@
     url = "https://github.com/akazdayo/stole-your-voice";
     stars = 3;
     language = "TypeScript";
-    pushedAt = "2026-07-17T20:01:38Z";
+    pushedAt = "2026-07-21T10:56:38Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1013,8 +1013,8 @@
     name = "meltyMusic";
     url = "https://github.com/akazdayo/meltyMusic";
     stars = 0;
-    language = null;
-    pushedAt = "2026-06-10T15:02:20Z";
+    language = "C++";
+    pushedAt = "2026-07-22T06:02:47Z";
     topics = [ ];
     archived = false;
     fork = true;
@@ -1044,7 +1044,7 @@
     url = "https://github.com/akazdayo/minecraft-proxy";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-07-21T05:46:39Z";
+    pushedAt = "2026-07-22T05:38:18Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1354,7 +1354,7 @@
     url = "https://github.com/akazdayo/presentations";
     stars = 0;
     language = "Typst";
-    pushedAt = "2026-07-17T13:57:09Z";
+    pushedAt = "2026-07-21T08:03:25Z";
     topics = [ ];
     archived = false;
     fork = false;
