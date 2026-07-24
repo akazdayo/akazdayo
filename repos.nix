@@ -74,7 +74,7 @@
     url = "https://github.com/akazdayo/vrchat-web-rtsp";
     stars = 3;
     language = "TypeScript";
-    pushedAt = "2026-06-21T10:38:05Z";
+    pushedAt = "2026-07-23T22:53:23Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -104,7 +104,7 @@
     url = "https://github.com/akazdayo/reproductive-nix-cache";
     stars = 2;
     language = "Rust";
-    pushedAt = "2026-07-11T17:55:55Z";
+    pushedAt = "2026-07-23T10:12:44Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -194,7 +194,7 @@
     url = "https://github.com/akazdayo/neko-do";
     stars = 1;
     language = "Nix";
-    pushedAt = "2026-07-21T05:42:40Z";
+    pushedAt = "2026-07-24T05:42:58Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -325,6 +325,16 @@
     stars = 0;
     language = null;
     pushedAt = "2026-04-08T08:08:27Z";
+    topics = [ ];
+    archived = false;
+    fork = true;
+  }
+  {
+    name = "Kotatsu";
+    url = "https://github.com/akazdayo/Kotatsu";
+    stars = 0;
+    language = null;
+    pushedAt = "2026-07-24T03:52:27Z";
     topics = [ ];
     archived = false;
     fork = true;
@@ -704,7 +714,7 @@
     url = "https://github.com/akazdayo/digitalocean-nix-tf";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-07-21T05:57:12Z";
+    pushedAt = "2026-07-24T06:02:41Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1044,7 +1054,7 @@
     url = "https://github.com/akazdayo/minecraft-proxy";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-07-23T05:43:32Z";
+    pushedAt = "2026-07-24T05:46:01Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1254,7 +1264,7 @@
     url = "https://github.com/akazdayo/openclaw-do-nix";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-07-21T05:50:50Z";
+    pushedAt = "2026-07-24T05:50:35Z";
     topics = [ ];
     archived = false;
     fork = false;
