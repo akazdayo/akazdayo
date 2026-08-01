@@ -194,7 +194,7 @@
     url = "https://github.com/akazdayo/neko-do";
     stars = 1;
     language = "Nix";
-    pushedAt = "2026-07-31T05:58:21Z";
+    pushedAt = "2026-08-01T05:47:48Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -388,6 +388,16 @@
     topics = [ ];
     archived = false;
     fork = false;
+  }
+  {
+    name = "MeanVC2-web-uv";
+    url = "https://github.com/akazdayo/MeanVC2-web-uv";
+    stars = 0;
+    language = "Python";
+    pushedAt = "2026-07-31T12:59:39Z";
+    topics = [ ];
+    archived = false;
+    fork = true;
   }
   {
     name = "MondaminDiceProgram";
@@ -714,7 +724,7 @@
     url = "https://github.com/akazdayo/digitalocean-nix-tf";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-07-30T05:47:13Z";
+    pushedAt = "2026-08-01T06:01:32Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1054,7 +1064,7 @@
     url = "https://github.com/akazdayo/minecraft-proxy";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-07-31T05:56:46Z";
+    pushedAt = "2026-08-01T05:46:36Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1264,7 +1274,7 @@
     url = "https://github.com/akazdayo/openclaw-do-nix";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-07-31T06:17:08Z";
+    pushedAt = "2026-08-01T06:00:12Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1524,7 +1534,7 @@
     url = "https://github.com/akazdayo/tor-middle-relay.nix";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-07-31T06:14:06Z";
+    pushedAt = "2026-08-01T05:56:15Z";
     topics = [ ];
     archived = false;
     fork = false;
