@@ -34,7 +34,7 @@
     url = "https://github.com/akazdayo/nix-configs";
     stars = 5;
     language = "Nix";
-    pushedAt = "2026-07-21T16:53:57Z";
+    pushedAt = "2026-08-03T04:33:22Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -244,7 +244,7 @@
     url = "https://github.com/akazdayo/wivrn-nix";
     stars = 1;
     language = "Nix";
-    pushedAt = "2026-07-26T15:51:12Z";
+    pushedAt = "2026-08-02T06:21:44Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -584,7 +584,7 @@
     url = "https://github.com/akazdayo/akazdayo";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-04-22T10:28:56Z";
+    pushedAt = "2026-08-02T06:12:13Z";
     topics = [ "config" "github-config" ];
     archived = false;
     fork = false;
@@ -1064,7 +1064,7 @@
     url = "https://github.com/akazdayo/minecraft-proxy";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-08-02T05:50:08Z";
+    pushedAt = "2026-08-03T06:15:05Z";
     topics = [ ];
     archived = false;
     fork = false;
