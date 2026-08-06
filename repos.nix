@@ -34,7 +34,7 @@
     url = "https://github.com/akazdayo/nix-configs";
     stars = 5;
     language = "Nix";
-    pushedAt = "2026-08-04T15:47:26Z";
+    pushedAt = "2026-08-05T07:00:08Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -584,7 +584,7 @@
     url = "https://github.com/akazdayo/akazdayo";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-08-04T06:05:06Z";
+    pushedAt = "2026-08-05T06:03:36Z";
     topics = [ "config" "github-config" ];
     archived = false;
     fork = false;
@@ -1064,7 +1064,7 @@
     url = "https://github.com/akazdayo/minecraft-proxy";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-08-05T05:37:28Z";
+    pushedAt = "2026-08-06T05:40:06Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1374,7 +1374,7 @@
     url = "https://github.com/akazdayo/presentations";
     stars = 0;
     language = "Typst";
-    pushedAt = "2026-07-25T03:54:58Z";
+    pushedAt = "2026-08-06T05:52:40Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1534,7 +1534,7 @@
     url = "https://github.com/akazdayo/tor-middle-relay.nix";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-08-04T05:48:13Z";
+    pushedAt = "2026-08-05T06:08:30Z";
     topics = [ ];
     archived = false;
     fork = false;
