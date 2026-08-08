@@ -1,4 +1,9 @@
 {
+  identity = {
+    handle = "akazdayo";
+    github = "https://github.com/akazdayo";
+  };
+
   hero = {
     image = {
       alt = "banner";
@@ -45,6 +50,12 @@
     ];
 
     footnoteRefs = [ "1" ];
+  };
+
+  reproducible = {
+    heading = "❄️ This profile is reproducible";
+    intro = "Yes, my GitHub profile is a Nix flake.";
+    flake = "github:akazdayo/akazdayo";
   };
 
   contact = {

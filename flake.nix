@@ -1,5 +1,5 @@
 {
-  description = "Minimal flake contracts for the GitHub profile README";
+  description = "A reproducible GitHub profile, evaluated with Nix";
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
@@ -8,6 +8,14 @@
 
   outputs =
     inputs@{ flake-parts, ... }:
+    let
+      staticProfile = import ./nix/profile/static.nix;
+      schema = import ./nix/profile/schema.nix;
+      aggregate = import ./nix/profile/aggregate.nix {
+        static = staticProfile;
+        inherit schema;
+      };
+    in
     flake-parts.lib.mkFlake { inherit inputs; } {
       systems = [
         "x86_64-linux"
@@ -19,13 +27,6 @@
       perSystem =
         { pkgs, ... }:
         let
-          staticProfile = import ./nix/profile/static.nix;
-          schema = import ./nix/profile/schema.nix;
-          aggregate = import ./nix/profile/aggregate.nix {
-            static = staticProfile;
-            inherit schema;
-          };
-
           readme = pkgs.writeTextFile {
             name = "readme";
             destination = "/README.md";
@@ -36,6 +37,17 @@
             name = "profile-json";
             destination = "/profile.json";
             text = import ./nix/profile/render-profile-json.nix { inherit aggregate; };
+          };
+
+          terminalProfile = pkgs.writeText "akazdayo-profile" (
+            import ./nix/profile/render-terminal.nix { inherit aggregate; }
+          );
+
+          profileBin = pkgs.writeShellApplication {
+            name = "akazdayo";
+            text = ''
+              exec ${pkgs.coreutils}/bin/cat ${terminalProfile}
+            '';
           };
 
           committedRepos =
@@ -84,13 +96,22 @@
           };
         in
         {
+          legacyPackages.profile = aggregate;
+
           packages = {
             readme = readme;
             default = readme;
             "profile-json" = profileJson;
+            "profile-cli" = profileBin;
           };
 
           apps = {
+            default = {
+              type = "app";
+              program = "${profileBin}/bin/akazdayo";
+              meta.description = "Print the human-readable akazdayo profile";
+            };
+
             "generate-readme" = {
               type = "app";
               program = "${generateReadmeBin}/bin/generate-readme";

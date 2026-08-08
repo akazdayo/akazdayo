@@ -95,7 +95,9 @@ in
   inherit (schema) committedSnapshot normalization aggregation;
   inherit static;
   inherit (static)
+    identity
     hero
+    reproducible
     contact
     stats
     details

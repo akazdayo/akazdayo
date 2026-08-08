@@ -6,6 +6,16 @@
 [![https://twitter.com/akazdango](https://img.shields.io/twitter/follow/akazdango?style=social)](https://twitter.com/akazdango)  
 [![nostr](https://nostr-embed.odango.app/nprofile1qyxhwumn8ghj77tpvf6jumt9qy28wumn8ghj7un9d3shjtnyv9kh2uewd9hsqgqmam8w2hmfa0pgjpqrvphj3d0gawaty0fzvucwz26t7a3d98fpvgwg2wlq)](https://nostter.app/odango.app)
 
+# ❄️ This profile is reproducible
+Yes, my GitHub profile is a Nix flake.
+
+```console
+nix run github:akazdayo/akazdayo
+nix eval --json github:akazdayo/akazdayo#profile
+nix build github:akazdayo/akazdayo#readme
+nix flake check github:akazdayo/akazdayo
+```
+
 # 📮 Contact me
 * [X](https://twitter.com/akazdango)
 * [E-Mail](mailto:me@odango.app)

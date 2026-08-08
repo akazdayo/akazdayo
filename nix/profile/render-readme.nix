@@ -42,6 +42,18 @@ let
     ++ map renderHeroLink aggregate.hero.links
   );
 
+  reproducibleBlock = joinLines [
+    "# ${aggregate.reproducible.heading}"
+    aggregate.reproducible.intro
+    ""
+    "```console"
+    "nix run ${aggregate.reproducible.flake}"
+    "nix eval --json ${aggregate.reproducible.flake}#profile"
+    "nix build ${aggregate.reproducible.flake}#readme"
+    "nix flake check ${aggregate.reproducible.flake}"
+    "```"
+  ];
+
   contactBlock = joinLines (
     [
       "# ${aggregate.contact.heading}"
@@ -59,6 +71,8 @@ let
 in
 joinLines [
   titleBlock
+  ""
+  reproducibleBlock
   ""
   contactBlock
   ""
