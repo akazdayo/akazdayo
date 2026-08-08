@@ -584,7 +584,7 @@
     url = "https://github.com/akazdayo/akazdayo";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-08-06T06:05:24Z";
+    pushedAt = "2026-08-07T05:02:54Z";
     topics = [ "config" "github-config" ];
     archived = false;
     fork = false;
@@ -724,7 +724,7 @@
     url = "https://github.com/akazdayo/digitalocean-nix-tf";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-08-05T05:50:53Z";
+    pushedAt = "2026-08-07T05:06:31Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1064,7 +1064,7 @@
     url = "https://github.com/akazdayo/minecraft-proxy";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-08-07T04:55:35Z";
+    pushedAt = "2026-08-08T04:01:44Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1470,6 +1470,16 @@
     fork = false;
   }
   {
+    name = "soundcloud-nowplaying";
+    url = "https://github.com/akazdayo/soundcloud-nowplaying";
+    stars = 0;
+    language = "TypeScript";
+    pushedAt = "2026-08-08T04:04:45Z";
+    topics = [ ];
+    archived = false;
+    fork = false;
+  }
+  {
     name = "speq";
     url = "https://github.com/akazdayo/speq";
     stars = 0;
@@ -1534,7 +1544,7 @@
     url = "https://github.com/akazdayo/tor-middle-relay.nix";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-08-05T06:08:30Z";
+    pushedAt = "2026-08-07T05:15:44Z";
     topics = [ ];
     archived = false;
     fork = false;
