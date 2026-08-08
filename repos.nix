@@ -584,7 +584,7 @@
     url = "https://github.com/akazdayo/akazdayo";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-08-07T05:02:54Z";
+    pushedAt = "2026-08-08T07:25:56Z";
     topics = [ "config" "github-config" ];
     archived = false;
     fork = false;
@@ -1374,7 +1374,7 @@
     url = "https://github.com/akazdayo/presentations";
     stars = 0;
     language = "Typst";
-    pushedAt = "2026-08-06T05:52:40Z";
+    pushedAt = "2026-08-08T06:26:15Z";
     topics = [ ];
     archived = false;
     fork = false;
