@@ -43,9 +43,19 @@
             import ./nix/profile/render-terminal.nix { inherit aggregate; }
           );
 
+          terminalProfileColor = pkgs.writeText "akazdayo-profile-color" (
+            import ./nix/profile/render-terminal.nix {
+              inherit aggregate;
+              ansi = true;
+            }
+          );
+
           profileBin = pkgs.writeShellApplication {
             name = "akazdayo";
             text = ''
+              if [[ -t 1 && -z "''${NO_COLOR:-}" ]]; then
+                exec ${pkgs.coreutils}/bin/cat ${terminalProfileColor}
+              fi
               exec ${pkgs.coreutils}/bin/cat ${terminalProfile}
             '';
           };

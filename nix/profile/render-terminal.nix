@@ -1,5 +1,6 @@
 {
   aggregate ? import ./aggregate.nix { },
+  ansi ? false,
 }:
 let
   joinLines = lines: builtins.concatStringsSep "\n" lines;
@@ -11,35 +12,64 @@ let
     else
       [ (builtins.head values) ] ++ take (count - 1) (builtins.tail values);
 
-  renderLanguage = entry: "${if entry.language == null then "Other" else entry.language} (${toString entry.count})";
+  repeat = count: value: builtins.concatStringsSep "" (builtins.genList (_: value) count);
+
+  stripPrefix =
+    prefix: value:
+    let
+      prefixLength = builtins.stringLength prefix;
+      valueLength = builtins.stringLength value;
+    in
+    if builtins.substring 0 prefixLength value == prefix then
+      builtins.substring prefixLength (valueLength - prefixLength) value
+    else
+      value;
+
+  contactHref =
+    label:
+    let
+      matches = builtins.filter (link: link.label == label) aggregate.contact.links;
+    in
+    if matches == [ ] then "-" else (builtins.head matches).href;
+
   namedLanguages = builtins.filter (entry: entry.language != null) aggregate.languageCounts;
-  languageSummary = builtins.concatStringsSep ", " (map renderLanguage (take 5 namedLanguages));
+  languageSummary = builtins.concatStringsSep ", " (map (entry: entry.language) (take 5 namedLanguages));
 
-  shownNixRepos = take 5 aggregate.nixRepos;
-  hiddenNixRepoCount = builtins.length aggregate.nixRepos - builtins.length shownNixRepos;
-  nixRepoSummary =
-    builtins.concatStringsSep ", " (map (repo: repo.name) shownNixRepos)
-    + (if hiddenNixRepoCount == 0 then "" else " + ${toString hiddenNixRepoCount} more");
+  escape = builtins.fromJSON ''"\u001b"'';
+  reset = "${escape}[0m";
+  boldBlue = "${escape}[1;38;5;75m";
+  blue = "${escape}[38;5;75m";
+  cyan = "${escape}[38;5;81m";
+  paint = color: value: if ansi then "${color}${value}${reset}" else value;
 
-  renderContact = link: "  ${link.label}: ${link.href}";
+  key = value: paint cyan value;
+  title = paint boldBlue "${aggregate.identity.handle}@github";
+  rule = paint blue (repeat (builtins.stringLength "${aggregate.identity.handle}@github") "-");
+
+  xContact = stripPrefix "https://" (contactHref "X");
+  emailContact = stripPrefix "mailto:" (contactHref "E-Mail");
+  githubHost = stripPrefix "https://" aggregate.identity.github;
+
+  colorBlocks =
+    if ansi then
+      "${escape}[40m   ${escape}[41m   ${escape}[42m   ${escape}[43m   ${escape}[44m   ${escape}[45m   ${escape}[46m   ${escape}[47m   ${reset}"
+    else
+      "■ ■ ■ ■ ■ ■ ■ ■";
+
+  infoLines = [
+    title
+    rule
+    "${key "Profile"}: ${aggregate.hero.heading.text}"
+    "${key "Host"}: ${githubHost}"
+    "${key "Repositories"}: ${toString aggregate.repoCount}"
+    "${key "Stars"}: ${toString aggregate.totalStars}"
+    "${key "Languages"}: ${languageSummary}"
+    "${key "Nix Repositories"}: ${toString (builtins.length aggregate.nixRepos)}"
+    "${key "X"}: ${xContact}"
+    "${key "Email"}: ${emailContact}"
+    "${key "Flake"}: ${aggregate.reproducible.flake}#profile"
+    colorBlocks
+  ];
+
 in
-joinLines (
-  [
-    "${aggregate.hero.heading.emoji} ${aggregate.hero.heading.text}"
-    ""
-    "GitHub: ${aggregate.identity.github}"
-    "Repositories: ${toString aggregate.repoCount}"
-    "Stars: ${toString aggregate.totalStars}"
-    "Languages: ${languageSummary}"
-  ]
-  ++ (if aggregate.nixRepos == [ ] then [ ] else [ "Nix repositories: ${nixRepoSummary}" ])
-  ++ [
-    ""
-    "Contact"
-  ]
-  ++ map renderContact aggregate.contact.links
-  ++ [
-    ""
-    "Evaluated from ${aggregate.reproducible.flake}#profile"
-  ]
-) + "\n"
+joinLines infoLines + "\n"
