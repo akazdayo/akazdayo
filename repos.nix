@@ -244,7 +244,7 @@
     url = "https://github.com/akazdayo/wivrn-nix";
     stars = 1;
     language = "Nix";
-    pushedAt = "2026-08-04T06:54:29Z";
+    pushedAt = "2026-08-09T05:00:09Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1064,7 +1064,7 @@
     url = "https://github.com/akazdayo/minecraft-proxy";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-08-09T04:15:43Z";
+    pushedAt = "2026-08-10T04:20:28Z";
     topics = [ ];
     archived = false;
     fork = false;
