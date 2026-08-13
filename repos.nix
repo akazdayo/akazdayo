@@ -22,7 +22,7 @@
   {
     name = "omni-tts-discord";
     url = "https://github.com/akazdayo/omni-tts-discord";
-    stars = 7;
+    stars = 8;
     language = "TypeScript";
     pushedAt = "2026-07-22T16:37:50Z";
     topics = [ ];
@@ -34,7 +34,7 @@
     url = "https://github.com/akazdayo/nix-configs";
     stars = 5;
     language = "Nix";
-    pushedAt = "2026-08-07T05:00:38Z";
+    pushedAt = "2026-08-12T16:53:46Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -245,6 +245,16 @@
     stars = 1;
     language = "Rust";
     pushedAt = "2026-04-23T01:21:10Z";
+    topics = [ ];
+    archived = false;
+    fork = false;
+  }
+  {
+    name = "soundcloud-nowplaying";
+    url = "https://github.com/akazdayo/soundcloud-nowplaying";
+    stars = 1;
+    language = "TypeScript";
+    pushedAt = "2026-08-10T15:31:17Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1074,7 +1084,7 @@
     url = "https://github.com/akazdayo/minecraft-proxy";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-08-12T04:33:44Z";
+    pushedAt = "2026-08-13T04:49:14Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1254,7 +1264,7 @@
     url = "https://github.com/akazdayo/nostter";
     stars = 0;
     language = "Svelte";
-    pushedAt = "2026-08-11T06:33:06Z";
+    pushedAt = "2026-08-13T03:47:47Z";
     topics = [ ];
     archived = false;
     fork = true;
@@ -1284,7 +1294,7 @@
     url = "https://github.com/akazdayo/openclaw-do-nix";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-08-11T04:40:54Z";
+    pushedAt = "2026-08-13T05:02:06Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1480,16 +1490,6 @@
     fork = false;
   }
   {
-    name = "soundcloud-nowplaying";
-    url = "https://github.com/akazdayo/soundcloud-nowplaying";
-    stars = 0;
-    language = "TypeScript";
-    pushedAt = "2026-08-10T15:31:17Z";
-    topics = [ ];
-    archived = false;
-    fork = false;
-  }
-  {
     name = "speq";
     url = "https://github.com/akazdayo/speq";
     stars = 0;
@@ -1554,7 +1554,7 @@
     url = "https://github.com/akazdayo/tor-middle-relay.nix";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-08-12T04:48:37Z";
+    pushedAt = "2026-08-13T04:52:16Z";
     topics = [ ];
     archived = false;
     fork = false;
