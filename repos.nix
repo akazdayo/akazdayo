@@ -50,6 +50,16 @@
     fork = false;
   }
   {
+    name = "vrchat-web-rtsp";
+    url = "https://github.com/akazdayo/vrchat-web-rtsp";
+    stars = 4;
+    language = "TypeScript";
+    pushedAt = "2026-08-04T12:05:39Z";
+    topics = [ ];
+    archived = false;
+    fork = false;
+  }
+  {
     name = "YUKKURIKANIKATOOL";
     url = "https://github.com/akazdayo/YUKKURIKANIKATOOL";
     stars = 3;
@@ -65,16 +75,6 @@
     stars = 3;
     language = "TypeScript";
     pushedAt = "2026-07-25T03:40:09Z";
-    topics = [ ];
-    archived = false;
-    fork = false;
-  }
-  {
-    name = "vrchat-web-rtsp";
-    url = "https://github.com/akazdayo/vrchat-web-rtsp";
-    stars = 3;
-    language = "TypeScript";
-    pushedAt = "2026-08-04T12:05:39Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -204,7 +204,7 @@
     url = "https://github.com/akazdayo/neko-do";
     stars = 1;
     language = "Nix";
-    pushedAt = "2026-08-12T04:39:07Z";
+    pushedAt = "2026-08-14T05:05:44Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -254,7 +254,7 @@
     url = "https://github.com/akazdayo/soundcloud-nowplaying";
     stars = 1;
     language = "TypeScript";
-    pushedAt = "2026-08-10T15:31:17Z";
+    pushedAt = "2026-08-14T15:08:00Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -744,7 +744,7 @@
     url = "https://github.com/akazdayo/digitalocean-nix-tf";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-08-13T05:19:55Z";
+    pushedAt = "2026-08-14T05:13:07Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1084,7 +1084,7 @@
     url = "https://github.com/akazdayo/minecraft-proxy";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-08-14T04:42:47Z";
+    pushedAt = "2026-08-15T03:39:37Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1264,7 +1264,7 @@
     url = "https://github.com/akazdayo/nostter";
     stars = 0;
     language = "Svelte";
-    pushedAt = "2026-08-14T02:41:26Z";
+    pushedAt = "2026-08-14T19:32:18Z";
     topics = [ ];
     archived = false;
     fork = true;
@@ -1294,7 +1294,7 @@
     url = "https://github.com/akazdayo/openclaw-do-nix";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-08-13T05:02:06Z";
+    pushedAt = "2026-08-14T05:08:58Z";
     topics = [ ];
     archived = false;
     fork = false;
