@@ -1264,7 +1264,7 @@
     url = "https://github.com/akazdayo/nostter";
     stars = 0;
     language = "Svelte";
-    pushedAt = "2026-08-14T19:32:18Z";
+    pushedAt = "2026-08-15T12:43:52Z";
     topics = [ ];
     archived = false;
     fork = true;
