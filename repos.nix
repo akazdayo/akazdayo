@@ -744,7 +744,7 @@
     url = "https://github.com/akazdayo/digitalocean-nix-tf";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-08-25T03:55:09Z";
+    pushedAt = "2026-08-28T15:26:47Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1084,7 +1084,7 @@
     url = "https://github.com/akazdayo/minecraft-proxy";
     stars = 0;
     language = "Nix";
-    pushedAt = "2026-08-28T14:48:08Z";
+    pushedAt = "2026-08-29T09:26:47Z";
     topics = [ ];
     archived = false;
     fork = false;
