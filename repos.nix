@@ -104,7 +104,7 @@
     url = "https://github.com/akazdayo/reproductive-nix-cache";
     stars = 2;
     language = "Rust";
-    pushedAt = "2026-09-03T09:29:56Z";
+    pushedAt = "2026-09-05T01:48:35Z";
     topics = [ ];
     archived = false;
     fork = false;
