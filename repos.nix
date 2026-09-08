@@ -1150,6 +1150,16 @@
     fork = true;
   }
   {
+    name = "nix-sandbox-reproducibility";
+    url = "https://github.com/akazdayo/nix-sandbox-reproducibility";
+    stars = 0;
+    language = "Python";
+    pushedAt = "2026-09-07T13:30:05Z";
+    topics = [ ];
+    archived = false;
+    fork = false;
+  }
+  {
     name = "nost-profile2";
     url = "https://github.com/akazdayo/nost-profile2";
     stars = 0;
