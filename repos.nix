@@ -544,7 +544,7 @@
     url = "https://github.com/akazdayo/aikyo-blank-template";
     stars = 0;
     language = "TypeScript";
-    pushedAt = "2025-08-23T23:46:49Z";
+    pushedAt = "2026-09-08T17:29:16Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1455,6 +1455,16 @@
     stars = 0;
     language = "JavaScript";
     pushedAt = "2024-02-01T09:04:52Z";
+    topics = [ ];
+    archived = false;
+    fork = false;
+  }
+  {
+    name = "repro2";
+    url = "https://github.com/akazdayo/repro2";
+    stars = 0;
+    language = "Rust";
+    pushedAt = "2026-09-09T07:57:38Z";
     topics = [ ];
     archived = false;
     fork = false;
