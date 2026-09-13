@@ -264,7 +264,7 @@
     url = "https://github.com/akazdayo/wivrn-nix";
     stars = 1;
     language = "Nix";
-    pushedAt = "2026-09-07T04:08:46Z";
+    pushedAt = "2026-09-12T15:40:23Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1404,7 +1404,7 @@
     url = "https://github.com/akazdayo/presentations";
     stars = 0;
     language = "Typst";
-    pushedAt = "2026-09-09T12:05:15Z";
+    pushedAt = "2026-09-13T06:10:37Z";
     topics = [ ];
     archived = false;
     fork = false;
