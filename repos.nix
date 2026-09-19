@@ -134,7 +134,7 @@
     url = "https://github.com/akazdayo/aikyo-draft";
     stars = 1;
     language = "TypeScript";
-    pushedAt = "2026-07-11T10:25:52Z";
+    pushedAt = "2026-09-18T09:12:02Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -704,7 +704,7 @@
     url = "https://github.com/akazdayo/co2-monitor-api";
     stars = 0;
     language = "Python";
-    pushedAt = "2026-06-23T18:46:40Z";
+    pushedAt = "2026-09-18T17:29:25Z";
     topics = [ ];
     archived = false;
     fork = false;
