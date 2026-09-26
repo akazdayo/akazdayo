@@ -930,6 +930,16 @@
     fork = true;
   }
   {
+    name = "jr.mitou.org";
+    url = "https://github.com/akazdayo/jr.mitou.org";
+    stars = 0;
+    language = null;
+    pushedAt = "2026-09-25T17:07:00Z";
+    topics = [ ];
+    archived = false;
+    fork = true;
+  }
+  {
     name = "kanshi-with-gptimage";
     url = "https://github.com/akazdayo/kanshi-with-gptimage";
     stars = 0;
