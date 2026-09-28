@@ -264,7 +264,7 @@
     url = "https://github.com/akazdayo/wivrn-nix";
     stars = 1;
     language = "Nix";
-    pushedAt = "2026-09-20T10:14:31Z";
+    pushedAt = "2026-09-27T09:32:37Z";
     topics = [ ];
     archived = false;
     fork = false;
