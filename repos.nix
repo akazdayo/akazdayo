@@ -1400,6 +1400,16 @@
     fork = true;
   }
   {
+    name = "ported_satsuki";
+    url = "https://github.com/akazdayo/ported_satsuki";
+    stars = 0;
+    language = null;
+    pushedAt = "2026-09-29T02:46:26Z";
+    topics = [ ];
+    archived = false;
+    fork = true;
+  }
+  {
     name = "post-2603";
     url = "https://github.com/akazdayo/post-2603";
     stars = 0;
@@ -1474,7 +1484,7 @@
     url = "https://github.com/akazdayo/repro2";
     stars = 0;
     language = "Rust";
-    pushedAt = "2026-09-24T17:13:57Z";
+    pushedAt = "2026-09-29T05:46:25Z";
     topics = [ ];
     archived = false;
     fork = false;
