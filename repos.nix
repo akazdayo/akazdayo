@@ -1460,6 +1460,16 @@
     fork = false;
   }
   {
+    name = "rebocap-wivrn-bridge";
+    url = "https://github.com/akazdayo/rebocap-wivrn-bridge";
+    stars = 0;
+    language = "Rust";
+    pushedAt = "2026-09-30T08:02:49Z";
+    topics = [ ];
+    archived = false;
+    fork = false;
+  }
+  {
     name = "redirect-workers";
     url = "https://github.com/akazdayo/redirect-workers";
     stars = 0;
