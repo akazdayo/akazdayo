@@ -34,7 +34,7 @@
     url = "https://github.com/akazdayo/nix-configs";
     stars = 5;
     language = "Nix";
-    pushedAt = "2026-10-04T12:53:47Z";
+    pushedAt = "2026-10-10T07:42:27Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -874,7 +874,7 @@
     url = "https://github.com/akazdayo/homepage";
     stars = 0;
     language = "Astro";
-    pushedAt = "2026-08-16T16:14:25Z";
+    pushedAt = "2026-10-10T08:11:54Z";
     topics = [ ];
     archived = false;
     fork = false;
