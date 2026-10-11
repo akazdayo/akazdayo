@@ -34,7 +34,7 @@
     url = "https://github.com/akazdayo/nix-configs";
     stars = 5;
     language = "Nix";
-    pushedAt = "2026-10-10T07:42:27Z";
+    pushedAt = "2026-10-10T13:35:04Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1095,6 +1095,16 @@
     stars = 0;
     language = "Nix";
     pushedAt = "2026-09-04T07:27:54Z";
+    topics = [ ];
+    archived = false;
+    fork = false;
+  }
+  {
+    name = "miside-sender";
+    url = "https://github.com/akazdayo/miside-sender";
+    stars = 0;
+    language = "Rust";
+    pushedAt = "2026-10-11T09:46:31Z";
     topics = [ ];
     archived = false;
     fork = false;
