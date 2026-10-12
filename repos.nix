@@ -264,7 +264,7 @@
     url = "https://github.com/akazdayo/wivrn-nix";
     stars = 1;
     language = "Nix";
-    pushedAt = "2026-10-04T10:06:55Z";
+    pushedAt = "2026-10-12T04:30:48Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1104,7 +1104,7 @@
     url = "https://github.com/akazdayo/miside-sender";
     stars = 0;
     language = "Rust";
-    pushedAt = "2026-10-11T09:46:31Z";
+    pushedAt = "2026-10-11T15:21:46Z";
     topics = [ ];
     archived = false;
     fork = false;
