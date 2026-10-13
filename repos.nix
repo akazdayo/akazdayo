@@ -170,16 +170,6 @@
     fork = false;
   }
   {
-    name = "metrabs-with-godot-to-vrc";
-    url = "https://github.com/akazdayo/metrabs-with-godot-to-vrc";
-    stars = 1;
-    language = "Python";
-    pushedAt = "2026-03-19T15:24:38Z";
-    topics = [ ];
-    archived = false;
-    fork = false;
-  }
-  {
     name = "minecraft-nix";
     url = "https://github.com/akazdayo/minecraft-nix";
     stars = 1;
@@ -1078,6 +1068,16 @@
     topics = [ ];
     archived = false;
     fork = true;
+  }
+  {
+    name = "metrabs-with-godot-to-vrc";
+    url = "https://github.com/akazdayo/metrabs-with-godot-to-vrc";
+    stars = 0;
+    language = "Python";
+    pushedAt = "2026-03-19T15:24:38Z";
+    topics = [ ];
+    archived = false;
+    fork = false;
   }
   {
     name = "minecraft-docker";
