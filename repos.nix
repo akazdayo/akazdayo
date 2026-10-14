@@ -864,7 +864,7 @@
     url = "https://github.com/akazdayo/homepage";
     stars = 0;
     language = "Astro";
-    pushedAt = "2026-10-10T08:11:54Z";
+    pushedAt = "2026-10-13T13:35:41Z";
     topics = [ ];
     archived = false;
     fork = false;
