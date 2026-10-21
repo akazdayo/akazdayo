@@ -34,7 +34,7 @@
     url = "https://github.com/akazdayo/nix-configs";
     stars = 5;
     language = "Nix";
-    pushedAt = "2026-10-17T08:23:36Z";
+    pushedAt = "2026-10-21T08:29:19Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -134,7 +134,7 @@
     url = "https://github.com/akazdayo/aikyo-draft";
     stars = 1;
     language = "TypeScript";
-    pushedAt = "2026-09-18T09:12:02Z";
+    pushedAt = "2026-10-20T22:10:18Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1114,7 +1114,7 @@
     url = "https://github.com/akazdayo/mistral-transcribe-web";
     stars = 0;
     language = "TypeScript";
-    pushedAt = "2026-10-18T19:20:03Z";
+    pushedAt = "2026-10-20T13:57:25Z";
     topics = [ ];
     archived = false;
     fork = false;
