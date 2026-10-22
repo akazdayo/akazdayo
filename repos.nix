@@ -34,7 +34,7 @@
     url = "https://github.com/akazdayo/nix-configs";
     stars = 5;
     language = "Nix";
-    pushedAt = "2026-10-21T08:29:19Z";
+    pushedAt = "2026-10-22T06:28:20Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -170,6 +170,16 @@
     fork = false;
   }
   {
+    name = "makeitaquote-workers";
+    url = "https://github.com/akazdayo/makeitaquote-workers";
+    stars = 1;
+    language = "TypeScript";
+    pushedAt = "2026-10-22T08:06:31Z";
+    topics = [ ];
+    archived = false;
+    fork = false;
+  }
+  {
     name = "minecraft-nix";
     url = "https://github.com/akazdayo/minecraft-nix";
     stars = 1;
@@ -240,6 +250,16 @@
     fork = false;
   }
   {
+    name = "rebocap-wivrn-bridge";
+    url = "https://github.com/akazdayo/rebocap-wivrn-bridge";
+    stars = 1;
+    language = "Rust";
+    pushedAt = "2026-09-30T08:02:49Z";
+    topics = [ ];
+    archived = false;
+    fork = false;
+  }
+  {
     name = "soundcloud-nowplaying";
     url = "https://github.com/akazdayo/soundcloud-nowplaying";
     stars = 1;
@@ -254,7 +274,7 @@
     url = "https://github.com/akazdayo/wivrn-nix";
     stars = 1;
     language = "Nix";
-    pushedAt = "2026-10-18T08:20:50Z";
+    pushedAt = "2026-10-21T11:46:03Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1114,7 +1134,7 @@
     url = "https://github.com/akazdayo/mistral-transcribe-web";
     stars = 0;
     language = "TypeScript";
-    pushedAt = "2026-10-20T13:57:25Z";
+    pushedAt = "2026-10-21T14:29:05Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1465,16 +1485,6 @@
     stars = 0;
     language = "Shell";
     pushedAt = "2026-08-31T08:36:11Z";
-    topics = [ ];
-    archived = false;
-    fork = false;
-  }
-  {
-    name = "rebocap-wivrn-bridge";
-    url = "https://github.com/akazdayo/rebocap-wivrn-bridge";
-    stars = 0;
-    language = "Rust";
-    pushedAt = "2026-09-30T08:02:49Z";
     topics = [ ];
     archived = false;
     fork = false;
