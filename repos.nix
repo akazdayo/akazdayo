@@ -34,7 +34,7 @@
     url = "https://github.com/akazdayo/nix-configs";
     stars = 5;
     language = "Nix";
-    pushedAt = "2026-10-22T06:28:20Z";
+    pushedAt = "2026-10-23T02:14:35Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -95,6 +95,16 @@
     stars = 2;
     language = "Rust";
     pushedAt = "2026-05-28T17:31:58Z";
+    topics = [ ];
+    archived = false;
+    fork = false;
+  }
+  {
+    name = "makeitaquote-workers";
+    url = "https://github.com/akazdayo/makeitaquote-workers";
+    stars = 2;
+    language = "TypeScript";
+    pushedAt = "2026-10-22T08:06:31Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -165,16 +175,6 @@
     stars = 1;
     language = "TypeScript";
     pushedAt = "2025-12-18T17:38:30Z";
-    topics = [ ];
-    archived = false;
-    fork = false;
-  }
-  {
-    name = "makeitaquote-workers";
-    url = "https://github.com/akazdayo/makeitaquote-workers";
-    stars = 1;
-    language = "TypeScript";
-    pushedAt = "2026-10-22T08:06:31Z";
     topics = [ ];
     archived = false;
     fork = false;
