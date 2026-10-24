@@ -34,7 +34,7 @@
     url = "https://github.com/akazdayo/nix-configs";
     stars = 5;
     language = "Nix";
-    pushedAt = "2026-10-23T02:14:35Z";
+    pushedAt = "2026-10-24T02:23:21Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -264,7 +264,7 @@
     url = "https://github.com/akazdayo/soundcloud-nowplaying";
     stars = 1;
     language = "TypeScript";
-    pushedAt = "2026-10-18T19:14:04Z";
+    pushedAt = "2026-10-24T01:01:32Z";
     topics = [ ];
     archived = false;
     fork = false;
