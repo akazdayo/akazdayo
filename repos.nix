@@ -34,7 +34,7 @@
     url = "https://github.com/akazdayo/nix-configs";
     stars = 5;
     language = "Nix";
-    pushedAt = "2026-10-25T01:38:23Z";
+    pushedAt = "2026-10-26T06:44:40Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -274,7 +274,7 @@
     url = "https://github.com/akazdayo/wivrn-nix";
     stars = 1;
     language = "Nix";
-    pushedAt = "2026-10-21T11:46:03Z";
+    pushedAt = "2026-10-25T08:44:19Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -714,7 +714,7 @@
     url = "https://github.com/akazdayo/co2-monitor-api";
     stars = 0;
     language = "Python";
-    pushedAt = "2026-10-06T04:18:25Z";
+    pushedAt = "2026-10-26T05:14:04Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1134,7 +1134,7 @@
     url = "https://github.com/akazdayo/mistral-transcribe-web";
     stars = 0;
     language = "TypeScript";
-    pushedAt = "2026-10-21T14:29:05Z";
+    pushedAt = "2026-10-25T09:32:27Z";
     topics = [ ];
     archived = false;
     fork = false;
