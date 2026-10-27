@@ -34,7 +34,7 @@
     url = "https://github.com/akazdayo/nix-configs";
     stars = 5;
     language = "Nix";
-    pushedAt = "2026-10-26T06:44:40Z";
+    pushedAt = "2026-10-27T02:53:08Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1514,7 +1514,7 @@
     url = "https://github.com/akazdayo/repro2";
     stars = 0;
     language = "Rust";
-    pushedAt = "2026-09-29T05:46:25Z";
+    pushedAt = "2026-10-26T14:02:04Z";
     topics = [ ];
     archived = false;
     fork = false;
