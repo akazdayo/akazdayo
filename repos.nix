@@ -2,7 +2,7 @@
   {
     name = "pixelart";
     url = "https://github.com/akazdayo/pixelart";
-    stars = 38;
+    stars = 37;
     language = "Python";
     pushedAt = "2026-07-22T14:16:29Z";
     topics = [ "converter" "pixelart" ];
@@ -34,7 +34,7 @@
     url = "https://github.com/akazdayo/nix-configs";
     stars = 5;
     language = "Nix";
-    pushedAt = "2026-10-27T02:53:08Z";
+    pushedAt = "2026-10-28T02:58:25Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -884,7 +884,7 @@
     url = "https://github.com/akazdayo/homepage";
     stars = 0;
     language = "Astro";
-    pushedAt = "2026-10-13T13:35:41Z";
+    pushedAt = "2026-10-27T13:27:14Z";
     topics = [ ];
     archived = false;
     fork = false;
