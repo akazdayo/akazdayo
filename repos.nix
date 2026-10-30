@@ -1134,7 +1134,7 @@
     url = "https://github.com/akazdayo/mistral-transcribe-web";
     stars = 0;
     language = "TypeScript";
-    pushedAt = "2026-10-25T09:32:27Z";
+    pushedAt = "2026-10-29T23:09:21Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1514,7 +1514,7 @@
     url = "https://github.com/akazdayo/repro2";
     stars = 0;
     language = "Rust";
-    pushedAt = "2026-10-29T08:52:33Z";
+    pushedAt = "2026-10-29T15:35:03Z";
     topics = [ ];
     archived = false;
     fork = false;
