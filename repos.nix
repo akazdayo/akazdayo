@@ -680,6 +680,16 @@
     fork = false;
   }
   {
+    name = "bluetooth-nostr";
+    url = "https://github.com/akazdayo/bluetooth-nostr";
+    stars = 0;
+    language = "Swift";
+    pushedAt = "2026-10-31T10:46:23Z";
+    topics = [ ];
+    archived = false;
+    fork = false;
+  }
+  {
     name = "centerized-aikyo";
     url = "https://github.com/akazdayo/centerized-aikyo";
     stars = 0;
