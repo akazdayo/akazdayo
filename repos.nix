@@ -114,7 +114,7 @@
     url = "https://github.com/akazdayo/reproductive-nix-cache";
     stars = 2;
     language = "Rust";
-    pushedAt = "2026-09-05T01:48:35Z";
+    pushedAt = "2026-11-02T10:14:10Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -274,7 +274,7 @@
     url = "https://github.com/akazdayo/wivrn-nix";
     stars = 1;
     language = "Nix";
-    pushedAt = "2026-10-25T08:44:19Z";
+    pushedAt = "2026-11-01T10:48:56Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1134,7 +1134,7 @@
     url = "https://github.com/akazdayo/miside-sender";
     stars = 0;
     language = "Rust";
-    pushedAt = "2026-10-11T15:21:46Z";
+    pushedAt = "2026-11-01T15:19:49Z";
     topics = [ ];
     archived = false;
     fork = false;
