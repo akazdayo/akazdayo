@@ -44,7 +44,7 @@
     url = "https://github.com/akazdayo/nostratui";
     stars = 4;
     language = "Rust";
-    pushedAt = "2026-07-17T12:02:27Z";
+    pushedAt = "2026-11-03T05:37:07Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -724,7 +724,7 @@
     url = "https://github.com/akazdayo/co2-monitor-api";
     stars = 0;
     language = "Python";
-    pushedAt = "2026-10-26T05:14:04Z";
+    pushedAt = "2026-11-02T20:42:18Z";
     topics = [ ];
     archived = false;
     fork = false;
