@@ -34,7 +34,7 @@
     url = "https://github.com/akazdayo/nix-configs";
     stars = 5;
     language = "Nix";
-    pushedAt = "2026-11-08T02:31:22Z";
+    pushedAt = "2026-11-09T03:13:25Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -274,7 +274,7 @@
     url = "https://github.com/akazdayo/wivrn-nix";
     stars = 1;
     language = "Nix";
-    pushedAt = "2026-11-01T10:48:56Z";
+    pushedAt = "2026-11-08T10:47:01Z";
     topics = [ ];
     archived = false;
     fork = false;
