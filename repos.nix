@@ -34,7 +34,7 @@
     url = "https://github.com/akazdayo/nix-configs";
     stars = 5;
     language = "Nix";
-    pushedAt = "2026-11-09T03:13:25Z";
+    pushedAt = "2026-11-10T05:56:52Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -860,6 +860,16 @@
     fork = true;
   }
   {
+    name = "git-ad";
+    url = "https://github.com/akazdayo/git-ad";
+    stars = 0;
+    language = null;
+    pushedAt = "2026-11-09T13:34:48Z";
+    topics = [ ];
+    archived = false;
+    fork = true;
+  }
+  {
     name = "hack1_mrfrontend";
     url = "https://github.com/akazdayo/hack1_mrfrontend";
     stars = 0;
@@ -1645,6 +1655,16 @@
     stars = 0;
     language = "Nix";
     pushedAt = "2026-09-03T07:46:29Z";
+    topics = [ ];
+    archived = false;
+    fork = false;
+  }
+  {
+    name = "translog-nix";
+    url = "https://github.com/akazdayo/translog-nix";
+    stars = 0;
+    language = "Rust";
+    pushedAt = "2026-11-10T10:00:05Z";
     topics = [ ];
     archived = false;
     fork = false;
