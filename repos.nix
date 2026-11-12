@@ -1474,7 +1474,7 @@
     url = "https://github.com/akazdayo/presentations";
     stars = 0;
     language = "Typst";
-    pushedAt = "2026-11-11T04:41:51Z";
+    pushedAt = "2026-11-12T06:56:42Z";
     topics = [ ];
     archived = false;
     fork = false;
