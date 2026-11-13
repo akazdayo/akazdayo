@@ -904,7 +904,7 @@
     url = "https://github.com/akazdayo/homepage";
     stars = 0;
     language = "Astro";
-    pushedAt = "2026-10-27T13:27:14Z";
+    pushedAt = "2026-11-12T22:54:26Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1474,7 +1474,7 @@
     url = "https://github.com/akazdayo/presentations";
     stars = 0;
     language = "Typst";
-    pushedAt = "2026-11-12T06:56:42Z";
+    pushedAt = "2026-11-12T15:43:52Z";
     topics = [ ];
     archived = false;
     fork = false;
