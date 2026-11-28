@@ -34,7 +34,7 @@
     url = "https://github.com/akazdayo/nix-configs";
     stars = 5;
     language = "Nix";
-    pushedAt = "2026-11-27T12:08:37Z";
+    pushedAt = "2026-11-28T04:55:19Z";
     topics = [ ];
     archived = false;
     fork = false;
@@ -1475,6 +1475,16 @@
     stars = 0;
     language = "Typst";
     pushedAt = "2026-11-12T15:43:52Z";
+    topics = [ ];
+    archived = false;
+    fork = false;
+  }
+  {
+    name = "proton-nix";
+    url = "https://github.com/akazdayo/proton-nix";
+    stars = 0;
+    language = "Python";
+    pushedAt = "2026-11-28T01:31:20Z";
     topics = [ ];
     archived = false;
     fork = false;
